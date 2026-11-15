@@ -1,0 +1,282 @@
+[
+  {
+    "nos": [
+      131,
+      132,
+      133,
+      134
+    ],
+    "type": "e-mail",
+    "header": [
+      "To: All Staff, Brentmoor Office",
+      "From: Denise Okafor <dokafor@harlowlogistics.com>",
+      "Date: March 9, 2026",
+      "Subject: Parking garage resurfacing"
+    ],
+    "title": "",
+    "body": "Dear colleagues,\n\nBeginning Monday, March 23, the lower two levels of our parking garage will be closed for resurfacing. The work is expected to {{131}} approximately three weeks, weather permitting. During this period, employees who normally park on levels B1 and B2 may use the overflow lot on Carver Street, located directly behind the Delmont Hotel.\n\n{{132}} A shuttle will run between the overflow lot and our main entrance every fifteen minutes from 7:00 A.M. to 7:00 P.M. Staff who arrive earlier or leave later than these hours are asked to contact Security in advance so that an escort can be arranged.\n\nWe recognize that this change may add time to your morning commute. {{133}}, managers have been asked to be flexible with start times for the duration of the project. Please speak with your supervisor if you anticipate any difficulty.\n\nUpdated information will be posted on the facilities page of the intranet as the work {{134}}. Thank you for your patience.\n\nDenise Okafor\nFacilities Manager, Harlow Logistics",
+    "bodyKo": "동료 여러분께,\n\n3월 23일 월요일부터 주차장 하부 2개 층이 바닥 재포장 공사로 폐쇄됩니다. 공사는 날씨가 허락한다면 약 3주간 지속될 것으로 예상됩니다. 이 기간 동안 평소 B1층과 B2층에 주차하시던 직원분들은 델몬트 호텔 바로 뒤편에 있는 카버 스트리트의 임시 주차장을 이용하실 수 있습니다.\n\n그 주차장은 우리 건물에서 걸어서 약 10분 거리이므로 교통편을 마련했습니다. 오전 7시부터 오후 7시까지 15분마다 임시 주차장과 본관 정문 사이를 셔틀이 운행합니다. 이 시간보다 일찍 출근하거나 늦게 퇴근하시는 직원분들은 동행 인력을 배정할 수 있도록 보안팀에 미리 연락해 주시기 바랍니다.\n\n이번 변경으로 아침 출근 시간이 늘어날 수 있다는 점을 잘 알고 있습니다. 이러한 이유로, 관리자들에게 공사 기간 동안 출근 시간을 유연하게 운영해 달라고 요청했습니다. 어려움이 예상되시면 담당 상사와 상의해 주십시오.\n\n공사가 진행됨에 따라 인트라넷의 시설 관리 페이지에 업데이트된 정보가 게시될 예정입니다. 양해해 주셔서 감사합니다.\n\n데니스 오카포\n할로 로지스틱스 시설 관리 책임자",
+    "questions": [
+      {
+        "no": 131,
+        "q": "",
+        "options": [
+          "spend",
+          "last",
+          "delay",
+          "count"
+        ],
+        "answer": "B",
+        "exp": "'공사가 약 3주간 지속되다'라는 의미이므로 기간을 목적어 없이 취하는 자동사 last가 정답이다. spend는 사람이 시간을 '보내다'라는 뜻으로 주어 the work와 어울리지 않고, delay는 '~을 지연시키다'라는 뜻이라 의미가 맞지 않는다.",
+        "ko": "빈칸 131에 들어갈 가장 알맞은 것은?"
+      },
+      {
+        "no": 132,
+        "q": "",
+        "options": [
+          "The resurfacing will also include new lighting fixtures.",
+          "The Delmont Hotel offers discounted rates for our clients.",
+          "The overflow lot will be repaved later this year.",
+          "Since the lot is about a ten-minute walk from our building, transportation has been arranged."
+        ],
+        "answer": "D",
+        "exp": "바로 뒤 문장이 '셔틀이 임시 주차장과 정문 사이를 운행한다'이므로, 거리가 멀어 교통편을 마련했다는 (D)가 자연스럽게 연결된다. (A)는 공사 내용으로 화제가 되돌아가 셔틀 안내와 이어지지 않고, (B)는 주차와 무관한 호텔 이야기다.",
+        "ko": "빈칸 132에 들어갈 가장 알맞은 문장은?"
+      },
+      {
+        "no": 133,
+        "q": "",
+        "options": [
+          "For this reason",
+          "Nevertheless",
+          "Otherwise",
+          "In contrast"
+        ],
+        "answer": "A",
+        "exp": "앞 문장 '출근 시간이 늘어날 수 있다'가 원인이고, 뒤 문장 '관리자들에게 출근 시간을 유연하게 해 달라고 요청했다'가 그에 따른 조치이므로 인과 관계를 나타내는 For this reason이 정답이다. Nevertheless는 양보·대조를 나타내므로 논리가 맞지 않는다.",
+        "ko": "빈칸 133에 들어갈 가장 알맞은 것은?"
+      },
+      {
+        "no": 134,
+        "q": "",
+        "options": [
+          "progressed",
+          "progress",
+          "progresses",
+          "progressing"
+        ],
+        "answer": "C",
+        "exp": "주절이 미래(will be posted)이고 시간·조건을 나타내는 접속사 as 뒤에는 현재 시제가 오며, 주어 the work가 3인칭 단수이므로 progresses가 정답이다. 과거형 progressed는 미래 시점의 안내와 시제가 맞지 않는다.",
+        "ko": "빈칸 134에 들어갈 가장 알맞은 것은?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      135,
+      136,
+      137,
+      138
+    ],
+    "type": "advertisement",
+    "header": [],
+    "title": "Brightwell Commons: Workspace That Works for You",
+    "body": "Are you tired of working from your kitchen table? Brightwell Commons offers flexible workspace in the heart of Easton's Riverside district. Our members enjoy high-speed Internet, private phone booths, and fully equipped meeting rooms that can be {{135}} online up to two weeks in advance.\n\nMembership plans are available on a daily, monthly, or annual basis. {{136}} members receive a dedicated desk and a personal storage locker, while daily members choose any open seat in our shared lounge. {{137}}\n\nTo celebrate our second anniversary, we are offering new members 20 percent off their first three months on any monthly plan. This offer is valid {{138}} April 30. Visit www.brightwellcommons.com/tour to schedule a free visit.",
+    "bodyKo": "식탁에서 일하는 데 지치셨나요? 브라이트웰 커먼스는 이스턴 리버사이드 지구 중심부에서 유연한 업무 공간을 제공합니다. 회원들은 초고속 인터넷, 개인 통화 부스, 그리고 최대 2주 전에 온라인으로 예약할 수 있는 완비된 회의실을 이용할 수 있습니다.\n\n회원권은 일일, 월간, 연간 단위로 이용 가능합니다. 연간 회원은 전용 책상과 개인 보관함을 받으며, 일일 회원은 공용 라운지의 빈자리 중 원하는 곳을 선택합니다. 모든 요금제에는 인쇄 및 스캔 스테이션 이용이 포함됩니다.\n\n개점 2주년을 기념하여, 신규 회원께 모든 월간 요금제의 첫 3개월 요금을 20퍼센트 할인해 드립니다. 이 혜택은 4월 30일까지 유효합니다. www.brightwellcommons.com/tour 에서 무료 방문 일정을 잡으세요.",
+    "questions": [
+      {
+        "no": 135,
+        "q": "",
+        "options": [
+          "reserve",
+          "reserving",
+          "reserved",
+          "reservation"
+        ],
+        "answer": "C",
+        "exp": "meeting rooms는 '예약되는' 대상이므로 can be 뒤에 과거분사가 와서 수동태를 이뤄야 한다. 따라서 reserved가 정답이다. 동사원형 reserve나 명사 reservation은 be동사 뒤에서 의미·문법이 맞지 않는다.",
+        "ko": "빈칸 135에 들어갈 가장 알맞은 것은?"
+      },
+      {
+        "no": 136,
+        "q": "",
+        "options": [
+          "Annual",
+          "Daily",
+          "Former",
+          "Prospective"
+        ],
+        "answer": "A",
+        "exp": "while 뒤에서 일일 회원(daily members)과 대조하고 있으므로 앞에는 다른 요금제 회원이 와야 한다. 앞 문장에 언급된 요금제 중 보기에 있는 것은 Annual뿐이다. Daily는 대조 구조와 모순되고, Former(이전의)·Prospective(장래의) 회원은 혜택을 받는 주체로 맞지 않는다.",
+        "ko": "빈칸 136에 들어갈 가장 알맞은 것은?"
+      },
+      {
+        "no": 137,
+        "q": "",
+        "options": [
+          "Unfortunately, meeting rooms cannot be booked in advance.",
+          "Our second location in Riverside will close next month.",
+          "Please return your locker key when your annual membership begins.",
+          "All plans include access to our printing and scanning stations."
+        ],
+        "answer": "D",
+        "exp": "요금제별 혜택을 설명한 뒤 '모든 요금제에 공통 포함되는 서비스'를 덧붙이는 (D)가 흐름에 맞다. (A)는 앞의 '2주 전 온라인 예약 가능'과 모순되고, (C)는 회원권이 시작될 때 열쇠를 반납하라는 비논리적인 내용이다.",
+        "ko": "빈칸 137에 들어갈 가장 알맞은 문장은?"
+      },
+      {
+        "no": 138,
+        "q": "",
+        "options": [
+          "since",
+          "through",
+          "within",
+          "during"
+        ],
+        "answer": "B",
+        "exp": "'4월 30일까지 유효하다'는 기한을 나타내므로 '~까지 (포함하여)'의 through가 정답이다. within은 '기간 이내'를 뜻해 특정 날짜와 쓰지 않고, during은 기간 명사와 함께 쓰므로 날짜 앞에 올 수 없다.",
+        "ko": "빈칸 138에 들어갈 가장 알맞은 것은?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      139,
+      140,
+      141,
+      142
+    ],
+    "type": "article",
+    "header": [],
+    "title": "Halvorsen Bakery to Open Third Location",
+    "body": "PORT ELLISON (May 4, 2026) — Halvorsen Bakery, known for its rye breads and seasonal pastries, will open its third location on June 15 in the newly redeveloped Wharfside Market. The bakery's owner, Ingrid Halvorsen, said the decision {{139}} by strong demand from customers who had been driving across town to her original shop on Linden Avenue.\n\nThe new shop will be considerably larger than the {{140}} two. In addition to a retail counter, it will feature a seating area for 40 guests and a glass-walled kitchen where visitors can watch bakers at work. {{141}}\n\nMs. Halvorsen plans to hire about 25 employees for the new location. {{142}} interested in applying can find job descriptions on the bakery's Web site. Training for new staff will begin in late May.",
+    "bodyKo": "포트 엘리슨 (2026년 5월 4일) — 호밀빵과 계절 페이스트리로 잘 알려진 할보르센 베이커리가 6월 15일 새로 재개발된 와프사이드 마켓에 세 번째 매장을 연다. 베이커리 소유주 잉그리드 할보르센은 이번 결정이 시내 반대편에서 린든 애비뉴의 본점까지 차를 몰고 오던 고객들의 높은 수요에 의해 이루어졌다고 말했다.\n\n새 매장은 기존 두 곳보다 상당히 넓을 것이다. 판매 카운터 외에도 40명이 앉을 수 있는 좌석 공간과, 방문객이 제빵사들의 작업 모습을 볼 수 있는 유리벽 주방을 갖출 예정이다. 할보르센 씨는 이 개방형 설계가 고객들이 빵 한 덩이 한 덩이에 들어가는 정성을 알아보는 데 도움이 되기를 바라고 있다.\n\n할보르센 씨는 새 매장을 위해 약 25명의 직원을 채용할 계획이다. 지원에 관심 있는 사람들은 베이커리 웹사이트에서 직무 설명을 확인할 수 있다. 신입 직원 교육은 5월 하순에 시작된다.",
+    "questions": [
+      {
+        "no": 139,
+        "q": "",
+        "options": [
+          "drove",
+          "is driving",
+          "has driven",
+          "was driven"
+        ],
+        "answer": "D",
+        "exp": "주어 the decision은 수요에 '의해 이루어진' 대상이고 뒤에 행위자를 나타내는 by가 있으므로 수동태 was driven이 정답이다. 나머지는 모두 능동태라 by 구문과 어울리지 않는다.",
+        "ko": "빈칸 139에 들어갈 가장 알맞은 것은?"
+      },
+      {
+        "no": 140,
+        "q": "",
+        "options": [
+          "remaining",
+          "existing",
+          "following",
+          "upcoming"
+        ],
+        "answer": "B",
+        "exp": "이번이 세 번째 매장이므로 비교 대상은 '이미 운영 중인' 두 매장이다. 따라서 existing이 정답이다. remaining은 일부가 없어지고 '남은' 것을 뜻해 문맥에 맞지 않고, upcoming(곧 있을)은 새 매장 쪽에 어울리는 말이다.",
+        "ko": "빈칸 140에 들어갈 가장 알맞은 것은?"
+      },
+      {
+        "no": 141,
+        "q": "",
+        "options": [
+          "Customers have praised the shop's lower prices since it opened.",
+          "Construction of the Linden Avenue shop is expected to begin in the fall.",
+          "Ms. Halvorsen hopes the open design will help customers appreciate the care that goes into each loaf.",
+          "As a result, the bakery will no longer offer seasonal pastries."
+        ],
+        "answer": "C",
+        "exp": "바로 앞 문장의 '방문객이 제빵 과정을 볼 수 있는 유리벽 주방'을 the open design으로 받아 그 의도를 설명하는 (C)가 자연스럽다. (A)는 아직 문을 열지 않은 매장에 대한 내용이라 모순이고, (B)는 린든 애비뉴 매장이 이미 운영 중인 본점이라는 사실과 맞지 않는다.",
+        "ko": "빈칸 141에 들어갈 가장 알맞은 문장은?"
+      },
+      {
+        "no": 142,
+        "q": "",
+        "options": [
+          "Those",
+          "Whoever",
+          "Anyone's",
+          "These"
+        ],
+        "answer": "A",
+        "exp": "'~하는 사람들'이라는 의미로 뒤의 형용사구(interested in applying)의 수식을 받는 대명사는 Those이다. Whoever는 뒤에 동사를 포함한 절이 와야 하고, These는 이런 식으로 사람을 나타내는 용법이 없다.",
+        "ko": "빈칸 142에 들어갈 가장 알맞은 것은?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      143,
+      144,
+      145,
+      146
+    ],
+    "type": "letter",
+    "header": [
+      "Corliss Home Furnishings",
+      "418 Ambrose Road, Fairview, OH 44121",
+      "June 2, 2026",
+      "Mr. Tomas Reyes",
+      "77 Willet Lane, Apt. 3C",
+      "Fairview, OH 44126"
+    ],
+    "title": "",
+    "body": "Dear Mr. Reyes,\n\nThank you for your recent order of a Westbrook oak dining table (item no. 5512). We regret to inform you that, owing to a delay at our supplier's workshop, the table will not be available for delivery on June 10 as originally {{143}}. We now expect to deliver it on or around June 24.\n\nWe understand that you may have been planning around the original date. {{144}}, we would like to offer you a choice. You may keep your order as it is and receive a $75 store credit, or you may cancel the order and receive a full refund. {{145}}\n\nTo let us know your preference, simply call our customer service team at 555-0148 or reply to the e-mail confirmation you received when you placed your order. If we do not hear from you by June 9, we will assume that you wish to {{146}} with the order.\n\nSincerely,\n\nMargaret Vance\nCustomer Relations Manager",
+    "bodyKo": "레예스 씨께,\n\n최근 웨스트브룩 오크 식탁(품번 5512)을 주문해 주셔서 감사합니다. 공급업체 작업장의 지연으로 인해, 원래 예정되었던 6월 10일에 식탁을 배송해 드릴 수 없게 되었음을 알려 드리게 되어 유감입니다. 현재 6월 24일경 배송될 것으로 예상하고 있습니다.\n\n고객님께서 원래 날짜에 맞춰 계획을 세우셨을 수 있음을 이해합니다. 그래서 선택권을 드리고자 합니다. 주문을 그대로 유지하고 75달러의 매장 적립금을 받으시거나, 주문을 취소하고 전액 환불을 받으실 수 있습니다. 어느 쪽을 택하시든 영업일 기준 이틀 이내에 요청을 처리해 드리겠습니다.\n\n원하시는 바를 알려 주시려면 555-0148번으로 고객 서비스팀에 전화하시거나 주문 시 받으신 확인 이메일에 회신해 주시면 됩니다. 6월 9일까지 연락이 없으시면 주문을 그대로 진행하기를 원하시는 것으로 간주하겠습니다.\n\n마거릿 밴스 드림\n고객 관리 매니저",
+    "questions": [
+      {
+        "no": 143,
+        "q": "",
+        "options": [
+          "scheduled",
+          "scheduling",
+          "to schedule",
+          "schedules"
+        ],
+        "answer": "A",
+        "exp": "'as originally scheduled(원래 예정된 대로)'는 'as (it was) originally scheduled'에서 주어와 be동사가 생략된 형태로, 배송이 '예정된' 것이므로 과거분사 scheduled가 정답이다. 현재분사 scheduling은 능동의 의미라 맞지 않는다.",
+        "ko": "빈칸 143에 들어갈 가장 알맞은 것은?"
+      },
+      {
+        "no": 144,
+        "q": "",
+        "options": [
+          "Instead",
+          "Otherwise",
+          "Therefore",
+          "Similarly"
+        ],
+        "answer": "C",
+        "exp": "앞 문장 '고객이 원래 날짜에 맞춰 계획했을 수 있음을 이해한다'가 이유가 되어 '그래서 선택권을 드린다'로 이어지므로 Therefore가 정답이다. Instead는 앞의 내용을 대체할 때, Otherwise는 '그렇지 않으면'이라는 조건을 나타낼 때 쓰므로 맞지 않는다.",
+        "ko": "빈칸 144에 들어갈 가장 알맞은 것은?"
+      },
+      {
+        "no": 145,
+        "q": "",
+        "options": [
+          "Your table was delivered on June 10 as promised.",
+          "Either way, we will process your request within two business days.",
+          "Unfortunately, store credit cannot be offered for delayed items.",
+          "Our new showroom on Ambrose Road opens next month."
+        ],
+        "answer": "B",
+        "exp": "앞 문장에서 '주문 유지 + 적립금' 또는 '취소 + 환불'이라는 두 가지 선택지를 제시했으므로, Either way(어느 쪽이든)로 받아 처리 일정을 안내하는 (B)가 알맞다. (A)는 배송 지연 사실과, (C)는 75달러 적립금 제공과 모순된다.",
+        "ko": "빈칸 145에 들어갈 가장 알맞은 문장은?"
+      },
+      {
+        "no": 146,
+        "q": "",
+        "options": [
+          "comply",
+          "consent",
+          "attend",
+          "proceed"
+        ],
+        "answer": "D",
+        "exp": "연락이 없으면 '주문을 그대로 진행하길 원하는 것으로 간주한다'는 문맥이므로 proceed with(~을 계속 진행하다)가 정답이다. comply with는 '(규칙·명령)을 따르다'라는 뜻으로 여기서 order를 '주문'이 아닌 '명령'으로 착각하게 만드는 함정이고, consent는 to와 함께 쓴다.",
+        "ko": "빈칸 146에 들어갈 가장 알맞은 것은?"
+      }
+    ]
+  }
+]

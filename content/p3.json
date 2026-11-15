@@ -1,0 +1,1446 @@
+[
+  {
+    "nos": [
+      32,
+      33,
+      34
+    ],
+    "speakers": [
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      },
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "GB"
+      }
+    ],
+    "lines": [
+      {
+        "s": "W1",
+        "t": "Hi, this is Grace Holloway from Brindle Architecture. I'm calling about the lunch order we placed for tomorrow's client workshop."
+      },
+      {
+        "s": "M1",
+        "t": "Of course, Ms. Holloway. I have it right here: sandwich platters for twenty people, delivered at noon. Is there a problem?"
+      },
+      {
+        "s": "W1",
+        "t": "Not a problem exactly, but five more people have signed up since then. Could you increase the order to twenty-five?"
+      },
+      {
+        "s": "M1",
+        "t": "That shouldn't be an issue. However, our vegetarian platters are nearly sold out for tomorrow, so the extra portions would have to be chicken or turkey."
+      },
+      {
+        "s": "W1",
+        "t": "Hmm, I think at least two of the new attendees don't eat meat. Do you have anything else that would work?"
+      },
+      {
+        "s": "M1",
+        "t": "We could add a large garden salad with grilled vegetables. It's the same price as a platter."
+      },
+      {
+        "s": "W1",
+        "t": "Perfect, let's do that. And could you send me an updated invoice? Our accounting department needs it before they'll approve the payment."
+      },
+      {
+        "s": "M1",
+        "t": "Certainly. I'll e-mail it to you within the hour."
+      }
+    ],
+    "linesKo": [
+      "안녕하세요, 브린들 건축의 그레이스 할러웨이입니다. 내일 고객 워크숍용으로 주문한 점심 건으로 전화드렸어요.",
+      "네, 할러웨이 씨. 주문 내역이 여기 있네요. 20인분 샌드위치 플래터, 정오 배달이요. 무슨 문제가 있으신가요?",
+      "문제라기보다는, 그 뒤로 신청자가 다섯 명 더 늘었어요. 주문을 25인분으로 늘려 주실 수 있을까요?",
+      "그건 문제없습니다. 다만 내일 채식 플래터가 거의 다 팔려서, 추가분은 치킨이나 칠면조로 하셔야 해요.",
+      "음, 새 참석자 중 적어도 두 명은 고기를 안 먹는 것 같은데요. 대신할 만한 게 있을까요?",
+      "구운 채소를 곁들인 대용량 가든 샐러드를 추가해 드릴 수 있어요. 가격은 플래터 하나와 같습니다.",
+      "좋아요, 그렇게 해 주세요. 그리고 수정된 청구서를 보내 주시겠어요? 회계 부서가 그걸 받아야 결제를 승인해 주거든요.",
+      "물론이죠. 한 시간 안에 이메일로 보내 드리겠습니다."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 32,
+        "q": "Why is the woman calling?",
+        "options": [
+          "To change an order",
+          "To cancel a delivery",
+          "To complain about a late shipment",
+          "To ask about a refund"
+        ],
+        "answer": "A",
+        "exp": "여자가 신청자가 늘었다며 \"Could you increase the order to twenty-five?\"라고 요청하므로 (A)가 정답이다. 주문을 취소하는 것이 아니라 수량을 바꾸는 것이므로 (B)는 오답이다.",
+        "ko": "여자는 왜 전화하는가?"
+      },
+      {
+        "no": 33,
+        "q": "What problem does the man mention?",
+        "options": [
+          "A delivery vehicle is unavailable.",
+          "A menu item is in limited supply.",
+          "A price has gone up.",
+          "An order was sent to the wrong address."
+        ],
+        "answer": "B",
+        "exp": "\"our vegetarian platters are nearly sold out\"에서 특정 메뉴의 재고가 부족함을 알 수 있다. 샐러드는 플래터와 같은 가격이라고 했을 뿐 가격 인상(C)은 언급되지 않았다.",
+        "ko": "남자는 어떤 문제를 언급하는가?"
+      },
+      {
+        "no": 34,
+        "q": "What does the woman ask the man to send?",
+        "options": [
+          "A list of ingredients",
+          "A delivery schedule",
+          "A revised bill",
+          "A product catalog"
+        ],
+        "answer": "C",
+        "exp": "\"could you send me an updated invoice?\"의 updated invoice를 revised bill로 바꿔 표현한 (C)가 정답이다. 배달 시간은 이미 정오로 정해져 있으므로 (B)는 오답이다.",
+        "ko": "여자는 남자에게 무엇을 보내 달라고 하는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      35,
+      36,
+      37
+    ],
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      },
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "GB"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "Fiona, have the banners for the Lakeview trade show arrived yet? We're supposed to set up our booth on Thursday morning."
+      },
+      {
+        "s": "W1",
+        "t": "They came this morning, but there's a problem. The printer used our old logo on every one of them."
+      },
+      {
+        "s": "M1",
+        "t": "Oh no. Can they reprint them in time?"
+      },
+      {
+        "s": "W1",
+        "t": "They say they can, but rush printing would cost an extra three hundred dollars. Should I go ahead and approve the charge?"
+      },
+      {
+        "s": "M1",
+        "t": "Well, we can't show up with the old logo. The whole point of this show is to introduce our new brand. But it was their mistake, not ours."
+      },
+      {
+        "s": "W1",
+        "t": "That's true. I'll call them back and see if they'll waive the fee."
+      },
+      {
+        "s": "M1",
+        "t": "Good. And while you're on the phone, ask whether they can deliver the new banners directly to the convention center."
+      },
+      {
+        "s": "W1",
+        "t": "Sure, that would save us a trip."
+      }
+    ],
+    "linesKo": [
+      "피오나, 레이크뷰 무역 박람회용 현수막 도착했어요? 목요일 아침에 부스를 설치해야 하잖아요.",
+      "오늘 아침에 왔는데 문제가 있어요. 인쇄소에서 전부 예전 로고로 찍었더라고요.",
+      "이런. 시간 안에 다시 인쇄할 수 있대요?",
+      "가능하긴 한데, 급행 인쇄라서 300달러가 추가된대요. 그냥 그 비용을 승인할까요?",
+      "음, 예전 로고를 달고 나갈 수는 없죠. 이번 박람회의 핵심이 새 브랜드를 알리는 거니까요. 그런데 그건 우리가 아니라 그쪽 실수잖아요.",
+      "맞아요. 다시 전화해서 그 비용을 면제해 줄 수 있는지 알아볼게요.",
+      "좋아요. 통화하는 김에 새 현수막을 컨벤션 센터로 바로 배송해 줄 수 있는지도 물어봐 주세요.",
+      "그럴게요. 그러면 우리가 가지러 갈 필요가 없겠네요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 35,
+        "q": "What are the speakers preparing for?",
+        "options": [
+          "A product launch party",
+          "A trade show",
+          "A company anniversary",
+          "A training session"
+        ],
+        "answer": "B",
+        "exp": "\"the banners for the Lakeview trade show\", \"set up our booth\"에서 무역 박람회 준비임을 알 수 있다. 새 브랜드를 알린다는 말은 박람회 참가 목적일 뿐 출시 파티(A)를 연다는 뜻이 아니다.",
+        "ko": "화자들은 무엇을 준비하고 있는가?"
+      },
+      {
+        "no": 36,
+        "q": "What does the man mean when he says, \"it was their mistake, not ours\"?",
+        "options": [
+          "Their company should not have to pay the extra fee.",
+          "The woman should check orders more carefully.",
+          "A different printer should be hired.",
+          "The old banners can still be used."
+        ],
+        "answer": "A",
+        "exp": "급행 인쇄비를 승인할지 묻는 말에 인쇄소의 실수라고 답한 것은 추가 비용을 자신들이 부담할 이유가 없다는 뜻이며, 여자도 곧바로 비용 면제를 요청하겠다고 한다. 여자를 탓하는 말이 아니므로 (B)는 오답이다.",
+        "ko": "남자가 \"그건 우리가 아니라 그쪽 실수잖아요\"라고 말할 때 의도하는 것은?"
+      },
+      {
+        "no": 37,
+        "q": "What does the man ask the woman to inquire about?",
+        "options": [
+          "Discounts on future orders",
+          "Changing the size of the banners",
+          "Picking up the order early",
+          "Delivery to an event venue"
+        ],
+        "answer": "D",
+        "exp": "\"ask whether they can deliver the new banners directly to the convention center\"에서 행사장 직배송을 물어봐 달라고 했으므로 (D)가 정답이다. 직접 가지러 가는 수고를 덜려는 것이므로 (C)는 반대 내용이다.",
+        "ko": "남자는 여자에게 무엇을 문의해 달라고 하는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      38,
+      39,
+      40
+    ],
+    "speakers": [
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      },
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      },
+      {
+        "id": "M2",
+        "gender": "M",
+        "accent": "GB"
+      }
+    ],
+    "lines": [
+      {
+        "s": "W1",
+        "t": "Thanks for meeting with me, Ken and Raj. As you know, the city has approved funding to extend the library's weekend hours starting in March."
+      },
+      {
+        "s": "M1",
+        "t": "That's great news. Patrons have been asking for Sunday hours for years."
+      },
+      {
+        "s": "M2",
+        "t": "It is, but we'll need more staff. Right now, only four of us are available on weekends."
+      },
+      {
+        "s": "W1",
+        "t": "Right. The funding covers two new part-time positions. Raj, could you draft the job posting by Friday?"
+      },
+      {
+        "s": "M2",
+        "t": "Sure. Should I list it on the city's employment Web site as well as our own?"
+      },
+      {
+        "s": "W1",
+        "t": "Yes, both. Ken, I'd like you to look into reorganizing the children's area. We're planning to hold Sunday story times there."
+      },
+      {
+        "s": "M1",
+        "t": "I'll do that. I'll also check whether we have enough chairs. Story times usually draw a big crowd."
+      },
+      {
+        "s": "W1",
+        "t": "Good thinking. Let's meet again next Wednesday to review everything."
+      }
+    ],
+    "linesKo": [
+      "켄, 라지, 시간 내 줘서 고마워요. 알다시피 시에서 3월부터 도서관 주말 운영 시간을 늘리는 예산을 승인했어요.",
+      "좋은 소식이네요. 이용자들이 몇 년째 일요일 개관을 요청해 왔잖아요.",
+      "그렇긴 한데, 인력이 더 필요할 거예요. 지금은 주말에 일할 수 있는 사람이 우리 넷뿐이거든요.",
+      "맞아요. 그 예산으로 시간제 직원 두 명을 새로 뽑을 수 있어요. 라지, 금요일까지 채용 공고 초안을 써 줄래요?",
+      "그럴게요. 우리 웹사이트뿐 아니라 시 채용 웹사이트에도 올릴까요?",
+      "네, 둘 다요. 켄은 어린이 열람실 재배치를 검토해 줬으면 해요. 일요일 동화 읽기 시간을 거기서 열 계획이거든요.",
+      "그렇게 할게요. 의자가 충분한지도 확인해 볼게요. 동화 읽기 시간에는 보통 사람이 많이 오거든요.",
+      "좋은 생각이에요. 다음 주 수요일에 다시 만나서 전체적으로 점검해요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 38,
+        "q": "What is the conversation mainly about?",
+        "options": [
+          "A building renovation",
+          "A budget reduction",
+          "A book donation",
+          "An extension of opening hours"
+        ],
+        "answer": "D",
+        "exp": "첫 대사 \"approved funding to extend the library's weekend hours\"에서 운영 시간 연장이 주제임을 알 수 있다. 예산은 삭감된 것이 아니라 새로 승인되었으므로 (B)는 오답이다.",
+        "ko": "대화는 주로 무엇에 관한 것인가?"
+      },
+      {
+        "no": 39,
+        "q": "What is Raj asked to do?",
+        "options": [
+          "Interview candidates",
+          "Redesign a Web site",
+          "Write a job posting",
+          "Contact city officials"
+        ],
+        "answer": "C",
+        "exp": "\"Raj, could you draft the job posting by Friday?\"라는 요청에서 (C)가 정답이다. 웹사이트는 공고를 올릴 곳으로 언급됐을 뿐이므로 (B)는 오답이다.",
+        "ko": "라지는 무엇을 하도록 요청받는가?"
+      },
+      {
+        "no": 40,
+        "q": "What does Ken say he will check?",
+        "options": [
+          "Whether there is enough seating",
+          "The number of volunteers",
+          "The cost of new books",
+          "The schedule for story times"
+        ],
+        "answer": "A",
+        "exp": "\"I'll also check whether we have enough chairs\"를 seating으로 바꿔 표현한 (A)가 정답이다. 동화 읽기 시간은 의자를 확인하는 이유로 언급됐을 뿐 일정을 확인하겠다는 것(D)은 아니다.",
+        "ko": "켄은 무엇을 확인하겠다고 하는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      41,
+      42,
+      43
+    ],
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      },
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "Hi, I'm here to pick up my car. The name's Victor Alvarez. You were replacing the brakes."
+      },
+      {
+        "s": "W1",
+        "t": "Let me check, Mr. Alvarez. Oh, I'm afraid it's not ready yet. Our mechanic found that one of the parts we ordered was the wrong size, so we're waiting for a replacement."
+      },
+      {
+        "s": "M1",
+        "t": "That's frustrating. I was told it'd be done by five today. I need a car to drive to a client meeting tomorrow morning."
+      },
+      {
+        "s": "W1",
+        "t": "I completely understand. The new part should arrive first thing tomorrow, and we'll install it right away, but that might still be too late for you."
+      },
+      {
+        "s": "M1",
+        "t": "Probably, yes. The meeting's at nine."
+      },
+      {
+        "s": "W1",
+        "t": "In that case, we can lend you one of our courtesy vehicles at no charge. You can use it until your car is ready."
+      },
+      {
+        "s": "M1",
+        "t": "That would be a big help. Thank you."
+      },
+      {
+        "s": "W1",
+        "t": "No problem. I just need to make a copy of your driver's license, and then I'll get you the keys."
+      }
+    ],
+    "linesKo": [
+      "안녕하세요, 차를 찾으러 왔어요. 빅터 알바레스입니다. 브레이크를 교체하고 계셨죠.",
+      "확인해 볼게요, 알바레스 씨. 아, 죄송하지만 아직 준비가 안 됐어요. 주문한 부품 하나가 사이즈가 안 맞는다는 걸 정비사가 발견해서 교체품을 기다리고 있어요.",
+      "곤란하네요. 오늘 다섯 시까지 된다고 들었거든요. 내일 아침 고객 미팅에 차를 몰고 가야 해요.",
+      "충분히 이해합니다. 새 부품은 내일 아침 일찍 도착해서 바로 장착할 예정인데, 그래도 고객님께는 늦을 수 있겠네요.",
+      "아마 그렇겠죠. 미팅이 아홉 시거든요.",
+      "그러시면 저희 대차 차량을 무료로 빌려 드릴게요. 고객님 차가 준비될 때까지 쓰시면 됩니다.",
+      "그러면 정말 큰 도움이 되겠네요. 감사합니다.",
+      "별말씀을요. 운전면허증 사본만 한 장 만들고 열쇠를 드릴게요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 41,
+        "q": "Where most likely does the woman work?",
+        "options": [
+          "At a car dealership",
+          "At an auto repair shop",
+          "At a car rental agency",
+          "At a parts factory"
+        ],
+        "answer": "B",
+        "exp": "차를 찾으러 온 남자에게 브레이크 교체용 부품 문제를 설명하므로 여자는 정비소 직원이다. 대차 차량을 빌려 준다는 말만 듣고 (C)를 고르지 않도록 주의한다.",
+        "ko": "여자는 어디에서 일하겠는가?"
+      },
+      {
+        "no": 42,
+        "q": "Why is the man's car not ready?",
+        "options": [
+          "A mechanic is out sick.",
+          "The shop has been too busy.",
+          "A part was the wrong size.",
+          "A payment has not been received."
+        ],
+        "answer": "C",
+        "exp": "\"one of the parts we ordered was the wrong size\"에서 (C)가 정답이다. 정비사는 문제를 발견한 사람으로 언급됐을 뿐 아프다는 말(A)은 없다.",
+        "ko": "남자의 차는 왜 준비되지 않았는가?"
+      },
+      {
+        "no": 43,
+        "q": "What does the woman ask the man for?",
+        "options": [
+          "His driver's license",
+          "A security deposit",
+          "His phone number",
+          "A signature on a form"
+        ],
+        "answer": "A",
+        "exp": "\"I just need to make a copy of your driver's license\"에서 (A)가 정답이다. 대차는 무료(at no charge)라고 했으므로 보증금(B)은 맞지 않다.",
+        "ko": "여자는 남자에게 무엇을 요청하는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      44,
+      45,
+      46
+    ],
+    "speakers": [
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      },
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "GB"
+      }
+    ],
+    "lines": [
+      {
+        "s": "W1",
+        "t": "Hi, Simon. I just got the e-mail about the move to the fifth floor. Do you know exactly when it's happening?"
+      },
+      {
+        "s": "M1",
+        "t": "The movers are coming the weekend after next. So we'll need to have everything packed by Friday the twelfth."
+      },
+      {
+        "s": "W1",
+        "t": "That's sooner than I expected. I have a lot of old project files in my cabinet. Do we have to take all of them?"
+      },
+      {
+        "s": "M1",
+        "t": "Actually, the new floor has much less storage space, so management is asking everyone to scan their paper files and recycle the originals."
+      },
+      {
+        "s": "W1",
+        "t": "That'll take forever. I've got at least ten years of documents."
+      },
+      {
+        "s": "M1",
+        "t": "You might want to talk to Ayumi in the records department. She's arranged for a temporary assistant to help with scanning, and you can book time with him."
+      },
+      {
+        "s": "W1",
+        "t": "Oh, that's good to know. I'll send her a message this afternoon."
+      }
+    ],
+    "linesKo": [
+      "안녕하세요, 사이먼. 5층 이전에 관한 이메일을 방금 받았어요. 정확히 언제 하는지 아세요?",
+      "이삿짐 업체가 다다음 주 주말에 와요. 그래서 12일 금요일까지는 짐을 다 싸 둬야 해요.",
+      "생각보다 빠르네요. 캐비닛에 예전 프로젝트 파일이 많은데, 그걸 다 가져가야 하나요?",
+      "실은 새 층은 수납공간이 훨씬 적어서, 경영진이 모두에게 종이 파일을 스캔하고 원본은 재활용해 달라고 하고 있어요.",
+      "그건 한참 걸리겠어요. 문서만 적어도 10년 치가 있거든요.",
+      "기록 관리 부서의 아유미와 얘기해 보세요. 스캔 작업을 도울 임시 보조 직원을 구해 놨는데, 그 사람 시간을 예약해서 쓸 수 있어요.",
+      "아, 좋은 정보네요. 오늘 오후에 아유미에게 메시지를 보낼게요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 44,
+        "q": "What are the speakers discussing?",
+        "options": [
+          "A client visit",
+          "An office relocation",
+          "A software upgrade",
+          "A recycling program"
+        ],
+        "answer": "B",
+        "exp": "\"the move to the fifth floor\", \"The movers are coming\"에서 사무실 이전에 관한 대화임을 알 수 있다. 재활용은 파일 처리 방법으로 잠깐 언급됐을 뿐 주제(D)가 아니다.",
+        "ko": "화자들은 무엇에 대해 이야기하고 있는가?"
+      },
+      {
+        "no": 45,
+        "q": "According to the man, what are employees being asked to do?",
+        "options": [
+          "Label their moving boxes",
+          "Work from home temporarily",
+          "Convert paper files to digital form",
+          "Return their office keys"
+        ],
+        "answer": "C",
+        "exp": "\"scan their paper files and recycle the originals\"를 종이 파일을 디지털로 전환한다고 바꿔 표현한 (C)가 정답이다. 짐을 싸 두라는 말은 있었지만 상자에 라벨을 붙이라는 요청(A)은 없었다.",
+        "ko": "남자에 따르면 직원들은 무엇을 하도록 요청받고 있는가?"
+      },
+      {
+        "no": 46,
+        "q": "Why will the woman contact Ayumi?",
+        "options": [
+          "To request extra storage space",
+          "To ask for a deadline extension",
+          "To report a broken scanner",
+          "To arrange help with a task"
+        ],
+        "answer": "D",
+        "exp": "아유미가 스캔을 도울 임시 직원을 구해 두었고 그 시간을 예약할 수 있다는 말에 여자가 메시지를 보내겠다고 하므로 (D)가 정답이다. 마감이 빠르다고 했을 뿐 기한 연장(B)을 요청하겠다는 말은 없다.",
+        "ko": "여자는 왜 아유미에게 연락할 것인가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      47,
+      48,
+      49
+    ],
+    "speakers": [
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      },
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "W1",
+        "t": "Welcome to the Harmon Art Museum. How can I help you?"
+      },
+      {
+        "s": "M1",
+        "t": "Hi. I'd like two tickets for the photography exhibition, please. It's on the second floor, right?"
+      },
+      {
+        "s": "W1",
+        "t": "It is, but I'm afraid the exhibition is sold out for today. Timed tickets are required, and the last slot was taken about an hour ago."
+      },
+      {
+        "s": "M1",
+        "t": "Oh, that's disappointing. I'm only in town until tomorrow afternoon."
+      },
+      {
+        "s": "W1",
+        "t": "Well, there are still a few spots for tomorrow at ten. Also, if you become a museum member today, you can enter any exhibition without a timed ticket."
+      },
+      {
+        "s": "M1",
+        "t": "How much is a membership?"
+      },
+      {
+        "s": "W1",
+        "t": "It's sixty dollars a year for an individual, and it includes free parking and a discount at our café."
+      },
+      {
+        "s": "M1",
+        "t": "Hmm, I don't live here, so I'll just take two of the ten o'clock tickets for tomorrow."
+      }
+    ],
+    "linesKo": [
+      "하먼 미술관에 오신 걸 환영합니다. 무엇을 도와드릴까요?",
+      "안녕하세요. 사진 전시회 표 두 장 주세요. 2층에서 하는 거 맞죠?",
+      "네, 그런데 죄송하지만 오늘 사진전은 매진됐어요. 시간 지정 입장권이 필요한데, 마지막 시간대가 한 시간쯤 전에 다 나갔거든요.",
+      "아, 아쉽네요. 저는 내일 오후까지만 이 도시에 있거든요.",
+      "음, 내일 10시 표는 아직 몇 자리 남아 있어요. 그리고 오늘 미술관 회원으로 가입하시면 시간 지정 입장권 없이 어느 전시든 들어가실 수 있어요.",
+      "회원권은 얼마인가요?",
+      "개인 회원은 1년에 60달러이고, 무료 주차와 카페 할인 혜택이 포함돼요.",
+      "음, 저는 여기 살지 않으니까 그냥 내일 10시 표로 두 장 할게요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 47,
+        "q": "Where most likely are the speakers?",
+        "options": [
+          "At a museum",
+          "At a photography studio",
+          "At a travel agency",
+          "At a parking garage"
+        ],
+        "answer": "A",
+        "exp": "\"Welcome to the Harmon Art Museum\"에서 (A)가 정답이다. 사진 전시회 이야기만 듣고 (B)를 고르지 않도록 주의한다.",
+        "ko": "화자들은 어디에 있겠는가?"
+      },
+      {
+        "no": 48,
+        "q": "What problem does the woman mention?",
+        "options": [
+          "A gallery is being renovated.",
+          "A ticket price has increased.",
+          "No tickets are left for the day.",
+          "An exhibition has already ended."
+        ],
+        "answer": "C",
+        "exp": "\"the exhibition is sold out for today\"에서 당일 표가 남아 있지 않음을 알 수 있다. 전시는 내일도 볼 수 있으므로 이미 끝났다는 (D)는 오답이다.",
+        "ko": "여자는 어떤 문제를 언급하는가?"
+      },
+      {
+        "no": 49,
+        "q": "What does the man decide to do?",
+        "options": [
+          "Buy a membership",
+          "Visit the café",
+          "Speak with a manager",
+          "Purchase tickets for the next day"
+        ],
+        "answer": "D",
+        "exp": "마지막에 \"I'll just take two of the ten o'clock tickets for tomorrow\"라고 하므로 (D)가 정답이다. 이 도시에 살지 않는다며 회원 가입(A)은 하지 않기로 했다.",
+        "ko": "남자는 무엇을 하기로 하는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      50,
+      51,
+      52
+    ],
+    "speakers": [
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "GB"
+      },
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "W1",
+        "t": "Marcus, I just got off the phone with Delmont Foods. They want the new packaging designs by the twentieth instead of the end of the month."
+      },
+      {
+        "s": "M1",
+        "t": "The twentieth? That's ten days earlier than we agreed."
+      },
+      {
+        "s": "W1",
+        "t": "I know. Their product launch has been moved up, so they need to get the packaging printed sooner. Do you think the design team can manage it?"
+      },
+      {
+        "s": "M1",
+        "t": "Well, Lucy and Ben are already working on the Ostrander project."
+      },
+      {
+        "s": "W1",
+        "t": "Hmm. What if we brought in a freelancer to help with the illustrations? We've worked with Tomás before, and he's fast."
+      },
+      {
+        "s": "M1",
+        "t": "That could work, as long as Delmont agrees to cover the extra cost. Can you ask them?"
+      },
+      {
+        "s": "W1",
+        "t": "I'll call them back this afternoon. If they say yes, I'll get in touch with Tomás right away."
+      }
+    ],
+    "linesKo": [
+      "마커스, 방금 델몬트 푸드와 통화했어요. 새 포장 디자인을 월말이 아니라 20일까지 받고 싶대요.",
+      "20일이요? 합의한 것보다 열흘이나 빠르잖아요.",
+      "알아요. 제품 출시가 앞당겨져서 포장재를 더 일찍 인쇄해야 한대요. 디자인팀이 해낼 수 있을까요?",
+      "글쎄요, 루시와 벤은 이미 오스트랜더 프로젝트를 하고 있어요.",
+      "음. 일러스트 작업을 도와줄 프리랜서를 쓰면 어때요? 전에 같이 일해 본 토마스는 작업이 빠르잖아요.",
+      "델몬트가 추가 비용을 부담하는 데 동의한다면 괜찮을 것 같아요. 그쪽에 물어봐 줄래요?",
+      "오늘 오후에 다시 전화할게요. 좋다고 하면 바로 토마스에게 연락할게요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 50,
+        "q": "What does the client want to do?",
+        "options": [
+          "Receive some designs earlier than planned",
+          "Approve a final design",
+          "Postpone a product launch",
+          "Switch to a different printer"
+        ],
+        "answer": "A",
+        "exp": "\"They want the new packaging designs by the twentieth instead of the end of the month\"에서 마감을 앞당기려 함을 알 수 있다. 출시는 연기된 것이 아니라 앞당겨졌으므로 (C)는 오답이다.",
+        "ko": "고객은 무엇을 원하는가?"
+      },
+      {
+        "no": 51,
+        "q": "What does the man mean when he says, \"Lucy and Ben are already working on the Ostrander project\"?",
+        "options": [
+          "He thinks Lucy and Ben should lead the new project.",
+          "He doubts the team has enough people available.",
+          "He wants to move the Ostrander deadline.",
+          "He prefers to work with a freelancer."
+        ],
+        "answer": "B",
+        "exp": "디자인팀이 해낼 수 있겠냐는 질문에 팀원들이 이미 다른 프로젝트 중이라고 답한 것은 일손이 부족하다는 뜻이며, 이어서 여자가 프리랜서를 제안한다. 프리랜서는 여자가 낸 아이디어이므로 (D)는 오답이다.",
+        "ko": "남자가 \"루시와 벤은 이미 오스트랜더 프로젝트를 하고 있어요\"라고 말할 때 의도하는 것은?"
+      },
+      {
+        "no": 52,
+        "q": "What will the woman ask the client about?",
+        "options": [
+          "Changing the package size",
+          "Meeting in person",
+          "Covering an additional cost",
+          "Recommending a freelancer"
+        ],
+        "answer": "C",
+        "exp": "남자가 \"as long as Delmont agrees to cover the extra cost. Can you ask them?\"이라고 하자 여자가 오후에 전화하겠다고 하므로 (C)가 정답이다. 프리랜서는 회사가 이미 알고 있는 사람이므로 추천을 부탁할 필요가 없어 (D)는 오답이다.",
+        "ko": "여자는 고객에게 무엇에 대해 물어볼 것인가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      53,
+      54,
+      55
+    ],
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      },
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "Good morning. I'm here for the Regional Logistics Conference. I registered online last week."
+      },
+      {
+        "s": "W1",
+        "t": "Welcome. Could I have your name, please?"
+      },
+      {
+        "s": "M1",
+        "t": "Daniel Okafor, from Brightway Shipping."
+      },
+      {
+        "s": "W1",
+        "t": "Let me see. Hmm, I have a Daniel Okafor here, but it says the registration fee hasn't been paid yet."
+      },
+      {
+        "s": "M1",
+        "t": "Really? Our accounting department said they'd take care of it. I have a confirmation number in my e-mail."
+      },
+      {
+        "s": "W1",
+        "t": "That should help. If you show me the confirmation, I can check it with our registration office."
+      },
+      {
+        "s": "M1",
+        "t": "Sure, here it is."
+      },
+      {
+        "s": "W1",
+        "t": "Thanks. Okay, it looks like the payment went through yesterday, but our system hasn't been updated. Here's your badge. The opening keynote starts in twenty minutes in Hall B, and coffee is being served just outside."
+      }
+    ],
+    "linesKo": [
+      "안녕하세요. 지역 물류 콘퍼런스에 참석하러 왔어요. 지난주에 온라인으로 등록했습니다.",
+      "환영합니다. 성함을 알려 주시겠어요?",
+      "브라이트웨이 해운의 대니얼 오카포입니다.",
+      "확인해 볼게요. 음, 대니얼 오카포 님 이름은 있는데 등록비가 아직 결제되지 않은 것으로 나오네요.",
+      "정말요? 저희 회계 부서에서 처리하겠다고 했는데요. 이메일에 확인 번호가 있어요.",
+      "그러면 도움이 되겠네요. 확인 메일을 보여 주시면 등록 사무실에 확인해 볼게요.",
+      "네, 여기 있어요.",
+      "감사합니다. 아, 결제는 어제 처리됐는데 저희 시스템에 아직 반영이 안 됐네요. 명찰 여기 있습니다. 개막 기조연설은 20분 후에 B홀에서 시작하고, 바로 밖에서 커피를 드리고 있어요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 53,
+        "q": "Who most likely is the woman?",
+        "options": [
+          "A hotel manager",
+          "An accountant",
+          "A shipping agent",
+          "A conference staff member"
+        ],
+        "answer": "D",
+        "exp": "콘퍼런스 참석자의 등록 상태를 확인하고 명찰을 나눠 주므로 행사 진행 요원이다. 회계 부서는 남자 회사의 부서로 언급됐을 뿐이므로 (B)는 오답이다.",
+        "ko": "여자는 누구이겠는가?"
+      },
+      {
+        "no": 54,
+        "q": "What does the man show the woman?",
+        "options": [
+          "A business card",
+          "A confirmation e-mail",
+          "A payment receipt",
+          "A conference program"
+        ],
+        "answer": "B",
+        "exp": "\"I have a confirmation number in my e-mail\"이라고 한 뒤 확인 메일을 보여 주므로 (B)가 정답이다. 결제 이야기가 나오지만 영수증(C)을 보여 준 것은 아니다.",
+        "ko": "남자는 여자에게 무엇을 보여 주는가?"
+      },
+      {
+        "no": 55,
+        "q": "What does the woman say about the keynote speech?",
+        "options": [
+          "It has been moved to another room.",
+          "It has been postponed.",
+          "It will begin shortly.",
+          "It requires a separate ticket."
+        ],
+        "answer": "C",
+        "exp": "\"The opening keynote starts in twenty minutes\"에서 곧 시작함을 알 수 있다. B홀이라는 장소를 안내했을 뿐 장소가 바뀌었다는 말(A)은 없다.",
+        "ko": "여자는 기조연설에 대해 뭐라고 말하는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      56,
+      57,
+      58
+    ],
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "GB"
+      },
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      },
+      {
+        "id": "W2",
+        "gender": "F",
+        "accent": "GB"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "Before we open tonight, I want to talk about the new online reservation system. Starting Monday, customers will be able to book tables through our Web site."
+      },
+      {
+        "s": "W1",
+        "t": "That's great. We get so many calls during the dinner rush that it's hard to keep up."
+      },
+      {
+        "s": "W2",
+        "t": "But what about customers who still want to call? Some of our regulars aren't comfortable booking online."
+      },
+      {
+        "s": "M1",
+        "t": "We'll still take phone reservations. They'll just be entered into the same system, so the host stand can see everything on one screen."
+      },
+      {
+        "s": "W1",
+        "t": "Will we get any training on it?"
+      },
+      {
+        "s": "M1",
+        "t": "Yes. A representative from the software company is coming on Saturday at two to walk us through it. It should take about an hour."
+      },
+      {
+        "s": "W2",
+        "t": "I'm not working on Saturday. Will there be another session?"
+      },
+      {
+        "s": "M1",
+        "t": "I'll ask the representative to record it, so you can watch it later."
+      }
+    ],
+    "linesKo": [
+      "오늘 저녁 영업을 시작하기 전에 새 온라인 예약 시스템에 대해 얘기하고 싶어요. 월요일부터 손님들이 우리 웹사이트에서 테이블을 예약할 수 있게 됩니다.",
+      "잘됐네요. 저녁 피크 시간에는 전화가 너무 많이 와서 감당하기 힘들었거든요.",
+      "그런데 여전히 전화로 예약하고 싶은 손님들은요? 단골 중에는 온라인 예약을 불편해하는 분들도 있어요.",
+      "전화 예약도 계속 받을 거예요. 같은 시스템에 입력되기 때문에 안내 데스크에서 한 화면으로 전부 볼 수 있어요.",
+      "사용법 교육은 받나요?",
+      "네. 소프트웨어 회사 담당자가 토요일 2시에 와서 차근차근 설명해 줄 거예요. 한 시간 정도 걸릴 거예요.",
+      "저는 토요일에 근무가 없어요. 다른 교육 시간도 있나요?",
+      "담당자에게 교육을 녹화해 달라고 요청할게요. 나중에 보시면 돼요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 56,
+        "q": "What is the conversation mainly about?",
+        "options": [
+          "A new booking system",
+          "A menu change",
+          "Hiring additional hosts",
+          "A customer complaint"
+        ],
+        "answer": "A",
+        "exp": "첫 대사 \"the new online reservation system\"에서 새 예약 시스템이 주제임을 알 수 있다. 단골손님 이야기는 우려 사항으로 나왔을 뿐 고객 불만(D)이 접수된 것은 아니다.",
+        "ko": "대화는 주로 무엇에 관한 것인가?"
+      },
+      {
+        "no": 57,
+        "q": "What concern does one of the women raise?",
+        "options": [
+          "The system will be expensive.",
+          "Some customers may not want to book online.",
+          "The restaurant needs more staff.",
+          "The host stand is too small."
+        ],
+        "answer": "B",
+        "exp": "\"Some of our regulars aren't comfortable booking online\"에서 (B)가 정답이다. 피크 시간에 전화가 많다는 말은 새 시스템을 반기는 이유이지 인력 부족(C)을 걱정한 것이 아니다.",
+        "ko": "여자 중 한 명은 어떤 우려를 제기하는가?"
+      },
+      {
+        "no": 58,
+        "q": "What does the man say he will do?",
+        "options": [
+          "Reschedule the training",
+          "Change the work schedule",
+          "Hire a software consultant",
+          "Have a training session recorded"
+        ],
+        "answer": "D",
+        "exp": "\"I'll ask the representative to record it\"에서 (D)가 정답이다. 교육 일정을 바꾸겠다고(A) 한 것이 아니라 녹화본으로 대신하겠다는 것이다.",
+        "ko": "남자는 무엇을 하겠다고 말하는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      59,
+      60,
+      61
+    ],
+    "speakers": [
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      },
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "W1",
+        "t": "Hi, I'm opening a small bakery next month, and I'd like to set up a business checking account."
+      },
+      {
+        "s": "M1",
+        "t": "Congratulations! I can help you with that. Do you have your business registration certificate with you?"
+      },
+      {
+        "s": "W1",
+        "t": "Yes, I brought it, along with my ID."
+      },
+      {
+        "s": "M1",
+        "t": "Great. We have two options. The basic account has no monthly fee but limits you to fifty transactions a month. The premium account costs fifteen dollars a month, but transactions are unlimited."
+      },
+      {
+        "s": "W1",
+        "t": "Hmm, I expect a lot of card payments once we open, so the premium one makes more sense."
+      },
+      {
+        "s": "M1",
+        "t": "Good choice. And since you're a new business owner, we'll waive the monthly fee for your first six months."
+      },
+      {
+        "s": "W1",
+        "t": "Oh, that's nice. Can I also apply for a business credit card today?"
+      },
+      {
+        "s": "M1",
+        "t": "You can, but those applications are handled by a different department. I'll introduce you to my colleague once we're done here."
+      }
+    ],
+    "linesKo": [
+      "안녕하세요, 다음 달에 작은 빵집을 여는데 사업자 입출금 계좌를 개설하고 싶어요.",
+      "축하드려요! 도와드리겠습니다. 사업자 등록증은 가져오셨나요?",
+      "네, 신분증과 함께 가져왔어요.",
+      "좋습니다. 두 가지 상품이 있어요. 기본 계좌는 월 수수료가 없지만 거래가 한 달에 50건으로 제한되고, 프리미엄 계좌는 한 달에 15달러이지만 거래 횟수에 제한이 없습니다.",
+      "음, 개업하면 카드 결제가 많을 것 같으니 프리미엄이 더 낫겠네요.",
+      "잘 선택하셨어요. 그리고 신규 사업자이시니 첫 6개월간은 월 수수료를 면제해 드립니다.",
+      "오, 좋네요. 오늘 사업자 신용카드도 신청할 수 있나요?",
+      "가능하지만 그 신청은 다른 부서에서 처리해요. 여기 업무가 끝나면 제 동료를 소개해 드릴게요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 59,
+        "q": "What does the woman plan to do next month?",
+        "options": [
+          "Open a business",
+          "Move to a new city",
+          "Hire some employees",
+          "Renovate a store"
+        ],
+        "answer": "A",
+        "exp": "\"I'm opening a small bakery next month\"에서 (A)가 정답이다. 빵집을 새로 여는 것이지 기존 매장을 개조하는 것(D)이 아니다.",
+        "ko": "여자는 다음 달에 무엇을 할 계획인가?"
+      },
+      {
+        "no": 60,
+        "q": "Why does the woman choose the premium account?",
+        "options": [
+          "It has no monthly fee.",
+          "She expects to make many transactions.",
+          "It comes with a credit card.",
+          "It offers a higher interest rate."
+        ],
+        "answer": "B",
+        "exp": "\"I expect a lot of card payments\"라며 거래가 많을 것으로 예상하므로 (B)가 정답이다. 월 수수료가 없는 것은 기본 계좌이므로 (A)는 오답이다.",
+        "ko": "여자는 왜 프리미엄 계좌를 선택하는가?"
+      },
+      {
+        "no": 61,
+        "q": "What will the man do after the account is set up?",
+        "options": [
+          "Mail some documents",
+          "Process a loan application",
+          "Issue a credit card",
+          "Introduce the woman to a colleague"
+        ],
+        "answer": "D",
+        "exp": "\"I'll introduce you to my colleague once we're done here\"에서 (D)가 정답이다. 신용카드 신청은 다른 부서 소관이므로 남자가 직접 카드를 발급하는 것(C)이 아니다.",
+        "ko": "계좌 개설이 끝난 뒤 남자는 무엇을 할 것인가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      62,
+      63,
+      64
+    ],
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      },
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "GB"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "Hi, I have a two thirty appointment with Dr. Lindqvist. My name's Paul Brennan."
+      },
+      {
+        "s": "W1",
+        "t": "Welcome, Mr. Brennan. Yes, I see you here. Before you go up, could you fill out this form? We need to update your insurance information."
+      },
+      {
+        "s": "M1",
+        "t": "Sure. My employer actually switched insurance providers last month, so that's good timing."
+      },
+      {
+        "s": "W1",
+        "t": "Great. Oh, and just so you know, Dr. Lindqvist won't be in the Cardiology department today. The walls there are being painted, so she's borrowing an office in Radiology."
+      },
+      {
+        "s": "M1",
+        "t": "Okay. And is there somewhere I can pick up a prescription after my appointment?"
+      },
+      {
+        "s": "W1",
+        "t": "Yes, the pharmacy's right here on the ground floor, next to this desk. It's open until six."
+      },
+      {
+        "s": "M1",
+        "t": "Perfect. I'll stop by on my way out."
+      }
+    ],
+    "linesKo": [
+      "안녕하세요, 린드크비스트 선생님께 2시 반 진료 예약이 있어요. 폴 브레넌입니다.",
+      "어서 오세요, 브레넌 씨. 네, 예약 확인됐습니다. 올라가시기 전에 이 양식을 작성해 주시겠어요? 보험 정보를 갱신해야 해서요.",
+      "그럼요. 사실 지난달에 회사에서 보험사를 바꿔서 마침 잘됐네요.",
+      "잘됐네요. 아, 그리고 참고로 린드크비스트 선생님은 오늘 심장내과에 안 계세요. 거기 벽 페인트 작업 중이라 영상의학과 진료실을 빌려 쓰고 계시거든요.",
+      "알겠습니다. 그리고 진료 후에 처방약을 받을 수 있는 곳이 있나요?",
+      "네, 약국이 바로 여기 1층, 이 데스크 옆에 있어요. 6시까지 열어요.",
+      "좋네요. 나가는 길에 들를게요."
+    ],
+    "graphic": {
+      "kind": "directory",
+      "title": "Westfield Medical Center Directory",
+      "columns": [
+        "Floor",
+        "Department"
+      ],
+      "rows": [
+        [
+          "1",
+          "Reception, Pharmacy"
+        ],
+        [
+          "2",
+          "Cardiology"
+        ],
+        [
+          "3",
+          "Physical Therapy"
+        ],
+        [
+          "4",
+          "Radiology"
+        ],
+        [
+          "5",
+          "Administration"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "no": 62,
+        "q": "What does the woman ask the man to do?",
+        "options": [
+          "Show a photo ID",
+          "Complete a form",
+          "Make a payment",
+          "Wait in the lobby"
+        ],
+        "answer": "B",
+        "exp": "\"could you fill out this form?\"의 fill out을 complete로 바꿔 표현한 (B)가 정답이다. 보험 정보를 갱신한다고 했을 뿐 신분증(A)이나 결제(C)는 요구하지 않았다.",
+        "ko": "여자는 남자에게 무엇을 하라고 요청하는가?"
+      },
+      {
+        "no": 63,
+        "q": "Look at the graphic. Which floor will the man most likely go to for his appointment?",
+        "options": [
+          "Floor 2",
+          "Floor 3",
+          "Floor 4",
+          "Floor 5"
+        ],
+        "answer": "C",
+        "exp": "의사가 오늘은 심장내과가 아니라 \"borrowing an office in Radiology\"라고 했으므로, 안내도에서 영상의학과가 있는 4층(C)이 정답이다. 평소 진료 장소인 심장내과가 있는 2층(A)이 함정이다.",
+        "ko": "시각 자료를 보시오. 남자는 진료를 받으러 몇 층으로 가겠는가?"
+      },
+      {
+        "no": 64,
+        "q": "What does the man say he will do after his appointment?",
+        "options": [
+          "Schedule a follow-up visit",
+          "Call his employer",
+          "Return a form",
+          "Stop by the pharmacy"
+        ],
+        "answer": "D",
+        "exp": "처방약 받을 곳을 묻고 약국 위치를 듣자 \"I'll stop by on my way out\"이라고 하므로 (D)가 정답이다. 양식은 진료 전에 작성하는 것이므로 (C)는 오답이다.",
+        "ko": "남자는 진료 후에 무엇을 하겠다고 말하는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      65,
+      66,
+      67
+    ],
+    "speakers": [
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      },
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "GB"
+      }
+    ],
+    "lines": [
+      {
+        "s": "W1",
+        "t": "Hi, I'd like to order business cards for four new staff members."
+      },
+      {
+        "s": "M1",
+        "t": "Sure. Do you have the design ready?"
+      },
+      {
+        "s": "W1",
+        "t": "Yes, it's on this flash drive. It's the same as our current cards, just with different names and job titles."
+      },
+      {
+        "s": "M1",
+        "t": "Great. How many cards would you like for each person?"
+      },
+      {
+        "s": "W1",
+        "t": "Well, I was going to get a hundred each, but your price list shows it's cheaper per card to order larger amounts. Can I combine them into one order?"
+      },
+      {
+        "s": "M1",
+        "t": "Unfortunately, no. Each name counts as a separate order. But for orders of five hundred cards or more, we offer free delivery."
+      },
+      {
+        "s": "W1",
+        "t": "Hmm, they won't hand out that many. I'll go with two hundred fifty each, then. And I'll come by and pick them up myself."
+      },
+      {
+        "s": "M1",
+        "t": "No problem. They'll be ready on Thursday."
+      }
+    ],
+    "linesKo": [
+      "안녕하세요, 새로 온 직원 네 명의 명함을 주문하고 싶어요.",
+      "네. 디자인은 준비돼 있으신가요?",
+      "네, 이 USB 메모리에 있어요. 지금 쓰는 명함과 똑같고 이름이랑 직함만 달라요.",
+      "좋습니다. 한 분당 몇 장씩 원하세요?",
+      "원래 한 사람당 100장씩 하려고 했는데, 가격표를 보니 많이 주문할수록 장당 가격이 싸더라고요. 하나의 주문으로 합칠 수 있을까요?",
+      "죄송하지만 안 됩니다. 이름마다 별도 주문으로 처리돼요. 대신 500장 이상 주문하시면 무료로 배송해 드려요.",
+      "음, 그분들이 명함을 그렇게 많이 쓰진 않을 거예요. 그럼 한 사람당 250장으로 할게요. 그리고 제가 직접 가지러 올게요.",
+      "알겠습니다. 목요일에 준비될 거예요."
+    ],
+    "graphic": {
+      "kind": "price list",
+      "title": "Quickline Print Shop: Business Cards",
+      "columns": [
+        "Quantity",
+        "Price"
+      ],
+      "rows": [
+        [
+          "100 cards",
+          "$25"
+        ],
+        [
+          "250 cards",
+          "$45"
+        ],
+        [
+          "500 cards",
+          "$70"
+        ],
+        [
+          "1,000 cards",
+          "$120"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "no": 65,
+        "q": "What did the woman bring with her?",
+        "options": [
+          "A design on a storage device",
+          "A printed price list",
+          "A sample of an old card",
+          "A discount voucher"
+        ],
+        "answer": "A",
+        "exp": "\"Yes, it's on this flash drive\"에서 디자인이 담긴 저장 장치를 가져왔음을 알 수 있다. 가격표는 가게에 있는 것을 본 것이므로 (B)는 오답이다.",
+        "ko": "여자는 무엇을 가져왔는가?"
+      },
+      {
+        "no": 66,
+        "q": "Look at the graphic. How much will the woman pay for each employee's cards?",
+        "options": [
+          "$25",
+          "$45",
+          "$70",
+          "$120"
+        ],
+        "answer": "B",
+        "exp": "이름마다 따로 주문해야 해서 \"I'll go with two hundred fifty each\"라고 했으므로, 표에서 250장 가격인 45달러(B)가 정답이다. 처음 계획했던 100장 가격(A)이 함정이다.",
+        "ko": "시각 자료를 보시오. 여자는 직원 한 명의 명함 값으로 얼마를 지불하겠는가?"
+      },
+      {
+        "no": 67,
+        "q": "What does the woman say she will do?",
+        "options": [
+          "Pay in advance",
+          "Send a new file",
+          "Collect the order in person",
+          "Request a delivery"
+        ],
+        "answer": "C",
+        "exp": "\"I'll come by and pick them up myself\"에서 (C)가 정답이다. 무료 배송은 500장 이상일 때만 해당되고 여자는 직접 가지러 오겠다고 했으므로 (D)는 오답이다.",
+        "ko": "여자는 무엇을 하겠다고 말하는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      68,
+      69,
+      70
+    ],
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "GB"
+      },
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "Excuse me, I was supposed to take the nine forty train to Carlton, but the board says it's delayed. Do you know how long it'll be?"
+      },
+      {
+        "s": "W1",
+        "t": "At least an hour, I'm afraid. There's a problem with the signals on that line. Are you in a hurry?"
+      },
+      {
+        "s": "M1",
+        "t": "Yes, I'm giving a presentation in Carlton at eleven thirty, and the trip takes about an hour."
+      },
+      {
+        "s": "W1",
+        "t": "Then you should take the next train after yours. It's running on time, and your ticket is valid on any train today."
+      },
+      {
+        "s": "M1",
+        "t": "That's a relief. I'll check the departure board for the platform."
+      },
+      {
+        "s": "W1",
+        "t": "Also, because of the delays, we're offering passengers a free coffee at the kiosk near the entrance. Just show your ticket."
+      },
+      {
+        "s": "M1",
+        "t": "Oh, that's kind of you. I'll grab one on my way."
+      }
+    ],
+    "linesKo": [
+      "실례합니다, 9시 40분 칼턴행 기차를 타야 하는데 전광판에 지연이라고 나와요. 얼마나 늦어지는지 아세요?",
+      "죄송하지만 최소 한 시간이요. 그 노선에 신호 장애가 있어서요. 급하신가요?",
+      "네, 11시 30분에 칼턴에서 발표를 하는데 가는 데 한 시간쯤 걸리거든요.",
+      "그럼 원래 타실 열차 바로 다음 열차를 타세요. 정시 운행 중이고, 오늘은 그 표로 어느 열차든 타실 수 있어요.",
+      "다행이네요. 출발 안내 전광판에서 승강장을 확인할게요.",
+      "그리고 지연 때문에 입구 근처 매점에서 승객분들께 무료 커피를 드리고 있어요. 표만 보여 주시면 돼요.",
+      "친절하시네요. 가는 길에 하나 받아 갈게요."
+    ],
+    "graphic": {
+      "kind": "schedule",
+      "title": "Departures to Carlton",
+      "columns": [
+        "Train",
+        "Departs",
+        "Platform",
+        "Status"
+      ],
+      "rows": [
+        [
+          "418",
+          "9:40",
+          "5",
+          "Delayed"
+        ],
+        [
+          "425",
+          "10:05",
+          "2",
+          "On time"
+        ],
+        [
+          "431",
+          "10:30",
+          "4",
+          "On time"
+        ],
+        [
+          "437",
+          "10:55",
+          "3",
+          "On time"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "no": 68,
+        "q": "Why is the man going to Carlton?",
+        "options": [
+          "To visit a relative",
+          "To attend a job interview",
+          "To give a presentation",
+          "To inspect a building site"
+        ],
+        "answer": "C",
+        "exp": "\"I'm giving a presentation in Carlton at eleven thirty\"에서 (C)가 정답이다. 면접(B)처럼 일정이 있는 다른 방문 목적은 언급되지 않았다.",
+        "ko": "남자는 왜 칼턴에 가는가?"
+      },
+      {
+        "no": 69,
+        "q": "Look at the graphic. Which platform will the man most likely go to?",
+        "options": [
+          "Platform 2",
+          "Platform 3",
+          "Platform 4",
+          "Platform 5"
+        ],
+        "answer": "A",
+        "exp": "여자가 지연된 9시 40분 열차의 바로 다음 열차를 타라고 했으므로, 표에서 10시 5분에 출발하는 425번 열차의 승강장인 2번(A)이 정답이다. 원래 타려던 열차의 승강장인 5번(D)이 함정이다.",
+        "ko": "시각 자료를 보시오. 남자는 어느 승강장으로 가겠는가?"
+      },
+      {
+        "no": 70,
+        "q": "What does the woman say passengers can receive?",
+        "options": [
+          "A full refund",
+          "A seat upgrade",
+          "A discount on a future trip",
+          "A complimentary beverage"
+        ],
+        "answer": "D",
+        "exp": "\"we're offering passengers a free coffee\"의 free coffee를 complimentary beverage로 바꿔 표현한 (D)가 정답이다. 표를 다른 열차에 쓸 수 있다고 했을 뿐 환불(A)은 언급되지 않았다.",
+        "ko": "여자는 승객들이 무엇을 받을 수 있다고 말하는가?"
+      }
+    ]
+  }
+]

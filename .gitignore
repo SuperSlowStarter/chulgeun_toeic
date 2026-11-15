@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.wav
+.vercel
+.DS_Store
+Thumbs.db
+desktop.ini
+public/audio/t1/lc-p*.mp3
+public/audio/t1/lc-p*-timing.json

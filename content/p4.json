@@ -1,0 +1,872 @@
+[
+  {
+    "nos": [
+      71,
+      72,
+      73
+    ],
+    "talkType": "telephone message",
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "GB"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "Hi, this message is for Karen Halvorsen. This is Grant calling from Lindale Home Furnishings about the dining table you ordered last week. I'm afraid our warehouse has just told us that the walnut finish you selected won't be available until the end of next month."
+      },
+      {
+        "s": "M1",
+        "t": "Apparently, the manufacturer is having a problem with one of its suppliers, and it's affecting quite a few of our orders."
+      },
+      {
+        "s": "M1",
+        "t": "However, we do have the same table in a dark oak finish, and that one is in stock right now. If you'd prefer that option, we could deliver it as early as this Saturday, and we'd also take fifteen percent off the original price for the inconvenience."
+      },
+      {
+        "s": "M1",
+        "t": "Either way, I'll need to hear from you by Friday so I can update our delivery schedule. You can reach me directly at five five five, two nine one, four four zero seven. Again, that's five five five, two nine one, four four zero seven. Thanks, and sorry again for the trouble."
+      }
+    ],
+    "linesKo": [
+      "안녕하세요, 캐런 핼버슨 님께 남기는 메시지입니다. 저는 린데일 홈 퍼니싱의 그랜트이고, 지난주에 주문하신 식탁 건으로 연락드렸습니다. 죄송하지만 방금 창고에서 고객님이 고르신 월넛 마감 제품은 다음 달 말이 되어야 입고된다는 연락을 받았습니다.",
+      "제조사가 공급업체 한 곳과 문제가 생긴 모양인데, 그 때문에 저희 주문 상당수가 영향을 받고 있습니다.",
+      "다만 같은 식탁의 다크 오크 마감 제품은 지금 재고가 있습니다. 그 제품으로 하시겠다면 이번 주 토요일에 바로 배송해 드릴 수 있고, 불편을 끼쳐 드린 만큼 원래 가격에서 15퍼센트를 할인해 드리겠습니다.",
+      "어느 쪽으로 하시든 배송 일정을 조정해야 하니 금요일까지 연락 부탁드립니다. 제 직통 번호는 555-291-4407입니다. 다시 한번 말씀드리면 555-291-4407입니다. 감사합니다. 번거롭게 해 드려 다시 한번 죄송합니다."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 71,
+        "q": "Why is the speaker calling?",
+        "options": [
+          "To confirm a delivery address",
+          "To report a problem with an order",
+          "To request a payment",
+          "To advertise a new product line"
+        ],
+        "answer": "B",
+        "exp": "주문한 식탁의 월넛 마감이 다음 달 말까지 입고되지 않는다고 알리고 있으므로 주문 관련 문제를 알리려는 전화다. 배송(deliver) 이야기가 나오지만 주소를 확인하는 내용은 없다.",
+        "ko": "화자는 왜 전화하고 있는가?"
+      },
+      {
+        "no": 72,
+        "q": "What does the speaker offer to do?",
+        "options": [
+          "Provide free assembly",
+          "Extend a warranty",
+          "Reduce the price of an alternative item",
+          "Upgrade the shipping method at no charge"
+        ],
+        "answer": "C",
+        "exp": "다크 오크 제품을 택하면 \"we'd also take fifteen percent off the original price\"라고 했으므로 대체 상품의 가격을 깎아 주겠다는 제안이다. 토요일에 바로 배송할 수 있다는 말은 재고가 있다는 뜻일 뿐 배송 방식을 무료로 올려 준다는 것이 아니다.",
+        "ko": "화자는 무엇을 해 주겠다고 제안하는가?"
+      },
+      {
+        "no": 73,
+        "q": "What does the speaker ask the listener to do?",
+        "options": [
+          "Respond by a certain day",
+          "Visit the store on Saturday",
+          "Contact the manufacturer directly",
+          "Select a finish on a Web site"
+        ],
+        "answer": "A",
+        "exp": "\"I'll need to hear from you by Friday\"라고 하며 금요일까지 답을 달라고 요청한다. 토요일은 배송 가능일이지 매장 방문일이 아니다.",
+        "ko": "화자는 청자에게 무엇을 하라고 요청하는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      74,
+      75,
+      76
+    ],
+    "talkType": "announcement",
+    "speakers": [
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "GB"
+      }
+    ],
+    "lines": [
+      {
+        "s": "W1",
+        "t": "Attention, please, passengers traveling on the nine fifteen express service to Harrowgate. Because of signal repairs between Milford and Ashby, this train will depart from platform six instead of platform two this morning."
+      },
+      {
+        "s": "W1",
+        "t": "Please also be aware that the train will make an additional stop at Ashby, so your arrival in Harrowgate will be approximately twenty minutes later than scheduled. We apologize for any inconvenience this may cause."
+      },
+      {
+        "s": "W1",
+        "t": "Passengers who need to make connections at Harrowgate are encouraged to speak with a member of staff at the customer service desk, located next to the main entrance. Our team will be happy to help you rearrange your onward journey at no extra cost."
+      },
+      {
+        "s": "W1",
+        "t": "In the meantime, complimentary coffee and tea are being served at the café on the upper level for all ticket holders on this service. Thank you for your patience."
+      }
+    ],
+    "linesKo": [
+      "해로게이트행 9시 15분 급행열차를 이용하시는 승객 여러분께 안내 말씀드립니다. 밀퍼드와 애시비 사이의 신호 설비 보수 작업으로 인해 오늘 아침 이 열차는 2번 승강장이 아닌 6번 승강장에서 출발합니다.",
+      "또한 이 열차는 애시비에 추가로 정차하므로 해로게이트 도착 시각이 예정보다 약 20분 늦어질 예정입니다. 불편을 드려 죄송합니다.",
+      "해로게이트에서 환승하셔야 하는 승객께서는 정문 옆 고객 서비스 데스크의 직원에게 문의해 주시기 바랍니다. 추가 비용 없이 이후 여정을 다시 조정해 드리겠습니다.",
+      "그동안 이 열차의 승차권을 소지하신 모든 분께 위층 카페에서 커피와 차를 무료로 제공하고 있습니다. 양해해 주셔서 감사합니다."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 74,
+        "q": "What has caused a change to the service?",
+        "options": [
+          "Severe weather",
+          "A shortage of staff",
+          "A delayed connecting train",
+          "Repair work"
+        ],
+        "answer": "D",
+        "exp": "\"Because of signal repairs between Milford and Ashby\"라고 했으므로 보수 작업 때문이다. 환승(connections) 이야기가 나오지만 연결 열차가 지연된 것이 원인은 아니다.",
+        "ko": "무엇 때문에 운행에 변경이 생겼는가?"
+      },
+      {
+        "no": 75,
+        "q": "According to the speaker, what can passengers do at the customer service desk?",
+        "options": [
+          "Receive a full refund",
+          "Pick up a printed timetable",
+          "Get help with onward travel",
+          "Upgrade their tickets"
+        ],
+        "answer": "C",
+        "exp": "고객 서비스 데스크 직원이 \"help you rearrange your onward journey\"라고 했으므로 이후 여정에 대한 도움을 받을 수 있다. 추가 비용이 없다고 했을 뿐 환불을 해 준다는 말은 없다.",
+        "ko": "화자에 따르면 승객들은 고객 서비스 데스크에서 무엇을 할 수 있는가?"
+      },
+      {
+        "no": 76,
+        "q": "What is being offered on the upper level?",
+        "options": [
+          "Free drinks",
+          "A quiet waiting area",
+          "Discount coupons",
+          "Seat reservations"
+        ],
+        "answer": "A",
+        "exp": "위층 카페에서 \"complimentary coffee and tea\"를 제공한다고 했으므로 무료 음료가 정답이다. complimentary가 free로 바뀌어 표현되었다.",
+        "ko": "위층에서는 무엇이 제공되고 있는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      77,
+      78,
+      79
+    ],
+    "talkType": "radio broadcast",
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "You're listening to Business Hour on Radio Fairmont. In local news, the Corvale Bicycle Company announced yesterday that it will open a new manufacturing plant on the east side of the city next spring. The facility is expected to create around three hundred jobs, many of them in assembly and quality control."
+      },
+      {
+        "s": "M1",
+        "t": "Company spokesperson Linda Marsh said the expansion was driven by growing demand for the firm's electric bicycles, which have sold out at stores across the region for two seasons in a row. She added that the site was chosen mainly because it sits right next to the rail line, which will cut shipping costs considerably."
+      },
+      {
+        "s": "M1",
+        "t": "Not everyone is pleased, however. Some residents living near the site have raised concerns about increased truck traffic on Elm Road. The city council will hold a public meeting on the issue next Tuesday evening at the community center."
+      },
+      {
+        "s": "M1",
+        "t": "Stay with us. After a short break, we'll be talking with a local chef about her new cookbook."
+      }
+    ],
+    "linesKo": [
+      "라디오 페어몬트의 '비즈니스 아워'를 듣고 계십니다. 지역 소식입니다. 코베일 자전거 회사는 어제 내년 봄 시 동부에 새 제조 공장을 연다고 발표했습니다. 이 시설은 약 300개의 일자리를 창출할 것으로 예상되며, 상당수는 조립과 품질 관리 분야입니다.",
+      "회사 대변인 린다 마시는 이번 확장이 회사 전기 자전거에 대한 수요 증가 때문이라고 밝혔습니다. 이 제품은 두 시즌 연속으로 지역 전역의 매장에서 품절되었습니다. 또한 부지는 주로 철도 노선 바로 옆에 있어 운송비를 크게 줄일 수 있다는 이유로 선정되었다고 덧붙였습니다.",
+      "하지만 모두가 반기는 것은 아닙니다. 부지 인근 주민 일부는 엘름 로드의 화물차 통행량 증가를 우려하고 있습니다. 시의회는 다음 주 화요일 저녁 주민 센터에서 이 문제에 관한 공청회를 열 예정입니다.",
+      "채널 고정해 주십시오. 잠시 후에는 새 요리책을 낸 지역 요리사와 이야기를 나누겠습니다."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 77,
+        "q": "What is the broadcast mainly about?",
+        "options": [
+          "A company merger",
+          "A new manufacturing facility",
+          "A store closure",
+          "A road construction project"
+        ],
+        "answer": "B",
+        "exp": "자전거 회사가 \"will open a new manufacturing plant\"라고 발표한 소식이 중심이다. 엘름 로드가 언급되지만 도로 공사가 아니라 화물차 통행 증가에 대한 우려다.",
+        "ko": "방송은 주로 무엇에 관한 것인가?"
+      },
+      {
+        "no": 78,
+        "q": "According to the spokesperson, why was the location chosen?",
+        "options": [
+          "The land was inexpensive.",
+          "Skilled workers live nearby.",
+          "The city offered tax benefits.",
+          "It is close to a rail line."
+        ],
+        "answer": "D",
+        "exp": "\"the site was chosen mainly because it sits right next to the rail line\"이라고 했다. 운송비 절감이 언급되지만 땅값이 싸다는 말은 없다.",
+        "ko": "대변인에 따르면 그 부지는 왜 선정되었는가?"
+      },
+      {
+        "no": 79,
+        "q": "What will take place next Tuesday?",
+        "options": [
+          "A groundbreaking ceremony",
+          "A product launch",
+          "A public meeting",
+          "A cookbook signing"
+        ],
+        "answer": "C",
+        "exp": "\"The city council will hold a public meeting on the issue next Tuesday evening\"이라고 했다. 요리책은 방송 직후에 이어질 인터뷰 주제일 뿐 화요일 일정이 아니다.",
+        "ko": "다음 주 화요일에 무슨 일이 있을 것인가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      80,
+      81,
+      82
+    ],
+    "talkType": "tour information",
+    "speakers": [
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "W1",
+        "t": "Good morning, everyone, and welcome to Bellmont Chocolate Works. My name is Hana, and I'll be your guide for the next hour. We'll start here in the roasting room, where the cocoa beans are prepared, and then move on to the molding area and finally the packaging floor."
+      },
+      {
+        "s": "W1",
+        "t": "Before we begin, just a quick reminder. For safety reasons, all visitors must wear the hairnets and shoe covers that were handed out at the front desk. Also, you're welcome to take pictures in most areas, but not on the packaging floor, since some of the products there haven't been released to the public yet."
+      },
+      {
+        "s": "W1",
+        "t": "Now, I know many of you are wondering about samples. Well, the tour finishes in our tasting room. Let's just say you won't leave hungry."
+      },
+      {
+        "s": "W1",
+        "t": "At the end, you'll also receive a voucher for twenty percent off anything in our gift shop, valid for today only. All right, if everyone's ready, please follow me through the double doors on your left."
+      }
+    ],
+    "linesKo": [
+      "안녕하세요, 여러분. 벨몬트 초콜릿 웍스에 오신 것을 환영합니다. 저는 앞으로 한 시간 동안 안내를 맡을 하나입니다. 먼저 카카오 콩을 손질하는 이곳 로스팅실에서 시작해 성형 구역으로 이동한 뒤, 마지막으로 포장 층을 둘러보겠습니다.",
+      "시작하기 전에 간단히 안내해 드리겠습니다. 안전을 위해 모든 방문객은 안내 데스크에서 나눠 드린 헤어네트와 덧신을 착용하셔야 합니다. 또한 대부분의 구역에서는 사진을 찍으셔도 되지만, 포장 층에는 아직 출시되지 않은 제품이 있어 촬영하실 수 없습니다.",
+      "자, 시식이 있는지 궁금하신 분이 많을 텐데요. 투어는 시식실에서 끝납니다. 배고픈 채로 돌아가실 일은 없을 거라는 것만 말씀드릴게요.",
+      "마지막에는 오늘 하루 기념품 가게의 모든 상품을 20퍼센트 할인받을 수 있는 쿠폰도 드립니다. 자, 모두 준비되셨으면 왼쪽 양문을 지나 저를 따라오세요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 80,
+        "q": "Where is the tour most likely taking place?",
+        "options": [
+          "At a food production facility",
+          "At a restaurant",
+          "At a farm",
+          "At a retail store"
+        ],
+        "answer": "A",
+        "exp": "초콜릿 회사에서 카카오 콩 로스팅실, 성형 구역, 포장 층을 둘러본다고 했으므로 식품 생산 시설이다. 기념품 가게가 언급되지만 투어 장소 자체는 소매점이 아니다.",
+        "ko": "투어는 어디에서 진행되고 있겠는가?"
+      },
+      {
+        "no": 81,
+        "q": "Why are visitors not allowed to take photographs in one area?",
+        "options": [
+          "The lighting is too dim.",
+          "Equipment could be damaged.",
+          "Workers have requested privacy.",
+          "Some products have not been released."
+        ],
+        "answer": "D",
+        "exp": "포장 층에서는 \"some of the products there haven't been released to the public yet\"이라서 촬영이 금지된다. 안전(safety)은 헤어네트와 덧신 착용의 이유이지 촬영 금지의 이유가 아니다.",
+        "ko": "방문객들은 왜 한 구역에서 사진을 찍을 수 없는가?"
+      },
+      {
+        "no": 82,
+        "q": "What does the speaker imply when she says, 'Let's just say you won't leave hungry'?",
+        "options": [
+          "Lunch will be served at a nearby restaurant.",
+          "Visitors will be able to try many products.",
+          "The tour will last longer than planned.",
+          "Visitors should not eat during the tour."
+        ],
+        "answer": "B",
+        "exp": "시식이 궁금할 거라며 투어가 시식실에서 끝난다고 한 직후의 말이므로, 제품을 넉넉히 맛볼 수 있다는 뜻이다. hungry라는 단어에서 점심 식사를 떠올리게 하는 것이 함정이다.",
+        "ko": "화자가 '배고픈 채로 돌아가실 일은 없을 거라는 것만 말씀드릴게요'라고 말할 때 의미하는 것은 무엇인가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      83,
+      84,
+      85
+    ],
+    "talkType": "excerpt from a meeting",
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "GB"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "Before we wrap up today's meeting, I'd like to share the results of the customer feedback survey we ran last quarter. Overall, they were encouraging. Most clients gave our installation teams high marks, especially for their punctuality and professionalism."
+      },
+      {
+        "s": "M1",
+        "t": "The one area where we scored poorly was response time on our support line. Many customers said they'd waited more than ten minutes to speak with someone, which is clearly too long. So starting next month, we'll be offering an online chat option on our Web site, so that simple questions can be handled without a phone call."
+      },
+      {
+        "s": "M1",
+        "t": "To make this work, we need volunteers from each department to help test the chat system before it goes live. The trial sessions will be held on the afternoons of the twelfth and the thirteenth. I realize everyone is busy with end-of-quarter reports right now. But it's only two hours, and you'd only need to attend one of the sessions."
+      },
+      {
+        "s": "M1",
+        "t": "If you're interested, please add your name to the sign-up sheet that Rebecca is passing around."
+      }
+    ],
+    "linesKo": [
+      "오늘 회의를 마치기 전에 지난 분기에 실시한 고객 만족도 조사 결과를 공유하겠습니다. 전반적으로 고무적인 결과였습니다. 대부분의 고객이 설치팀에 높은 점수를 주었는데, 특히 시간 엄수와 전문성에 대한 평가가 좋았습니다.",
+      "점수가 낮았던 유일한 분야는 고객 지원 전화의 응답 시간이었습니다. 많은 고객이 상담원과 통화하기까지 10분 넘게 기다렸다고 했는데, 분명히 너무 깁니다. 그래서 다음 달부터 웹사이트에 온라인 채팅 기능을 도입해 간단한 문의는 전화 없이 처리할 수 있도록 하겠습니다.",
+      "이를 위해 정식 운영 전에 채팅 시스템 테스트를 도와줄 자원자가 부서마다 필요합니다. 시범 세션은 12일과 13일 오후에 열립니다. 지금 다들 분기 말 보고서로 바쁘다는 건 압니다. 하지만 두 시간이면 되고, 두 세션 중 하나만 참석하시면 됩니다.",
+      "관심 있는 분은 레베카가 돌리고 있는 신청서에 이름을 적어 주세요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 83,
+        "q": "What is the speaker mainly discussing?",
+        "options": [
+          "A new hiring policy",
+          "Changes to an installation process",
+          "Results of a customer survey",
+          "A schedule for quarterly reports"
+        ],
+        "answer": "C",
+        "exp": "\"I'd like to share the results of the customer feedback survey\"로 시작해 조사 결과와 그에 따른 조치를 설명한다. 설치팀은 좋은 평가를 받았다고 언급될 뿐 설치 절차를 바꾸는 이야기는 없다.",
+        "ko": "화자는 주로 무엇에 대해 이야기하고 있는가?"
+      },
+      {
+        "no": 84,
+        "q": "What does the company plan to do next month?",
+        "options": [
+          "Offer an online chat service",
+          "Extend its support line hours",
+          "Hire additional installers",
+          "Redesign its Web site"
+        ],
+        "answer": "A",
+        "exp": "\"starting next month, we'll be offering an online chat option\"이라고 했다. 지원 전화의 대기 시간이 문제였지만 해결책은 운영 시간 연장이 아니라 채팅 도입이다.",
+        "ko": "회사는 다음 달에 무엇을 할 계획인가?"
+      },
+      {
+        "no": 85,
+        "q": "What does the speaker imply when he says, 'But it's only two hours'?",
+        "options": [
+          "The reports will not take long to finish.",
+          "He hopes staff will volunteer despite being busy.",
+          "The trial sessions have been shortened.",
+          "The chat system is simple to learn."
+        ],
+        "answer": "B",
+        "exp": "다들 분기 말 보고서로 바쁜 걸 안다고 인정한 뒤 한 말이므로, 바쁘더라도 부담이 크지 않으니 자원해 달라는 뜻이다. 보고서 작업이 금방 끝난다는 의미가 아니다.",
+        "ko": "화자가 '하지만 두 시간이면 됩니다'라고 말할 때 의미하는 것은 무엇인가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      86,
+      87,
+      88
+    ],
+    "talkType": "advertisement",
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "Does your office printer always seem to run out of ink at the worst possible moment? With InkHarbor, you'll never have to worry about that again. Our smart subscription service checks your printer's ink levels automatically and ships new cartridges to your door before you run out."
+      },
+      {
+        "s": "M1",
+        "t": "Plans start at just nine ninety-nine a month, and there are no contracts, so you can cancel anytime. Plus, every delivery comes with a prepaid envelope, so you can send your empty cartridges back to us for recycling at no charge."
+      },
+      {
+        "s": "M1",
+        "t": "InkHarbor works with more than two hundred printer models from all the major manufacturers. Not sure if yours is one of them? Just go to our Web site and enter your printer's model number to find out instantly."
+      },
+      {
+        "s": "M1",
+        "t": "And for a limited time, new customers who sign up before the end of June will get their first two months free. Visit InkHarbor dot com today."
+      }
+    ],
+    "linesKo": [
+      "사무실 프린터 잉크가 늘 가장 곤란한 순간에 떨어지시나요? 잉크하버와 함께라면 더 이상 걱정하실 필요가 없습니다. 저희 스마트 구독 서비스가 프린터의 잉크 잔량을 자동으로 확인해 잉크가 떨어지기 전에 새 카트리지를 문 앞까지 보내 드립니다.",
+      "요금제는 월 9.99달러부터 시작하며 약정이 없어 언제든 해지하실 수 있습니다. 게다가 매번 배송 때 요금 선납 봉투를 함께 보내 드리므로 다 쓴 카트리지를 무료로 돌려보내 재활용하실 수 있습니다.",
+      "잉크하버는 주요 제조사의 프린터 200여 종과 호환됩니다. 사용하시는 프린터가 포함되는지 잘 모르시겠다고요? 저희 웹사이트에서 프린터 모델 번호를 입력하시면 바로 확인하실 수 있습니다.",
+      "그리고 기간 한정으로 6월 말 이전에 가입하시는 신규 고객께는 첫 두 달을 무료로 드립니다. 지금 바로 InkHarbor.com을 방문하세요."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 86,
+        "q": "What is being advertised?",
+        "options": [
+          "A printer repair service",
+          "A recycling program",
+          "An office supply store",
+          "An ink delivery service"
+        ],
+        "answer": "D",
+        "exp": "잉크 잔량을 확인해 \"ships new cartridges to your door\"하는 구독 서비스를 광고하고 있다. 재활용은 서비스에 딸린 부가 혜택일 뿐 광고의 대상이 아니다.",
+        "ko": "무엇이 광고되고 있는가?"
+      },
+      {
+        "no": 87,
+        "q": "Why should listeners visit the Web site?",
+        "options": [
+          "To check whether their printer is compatible",
+          "To download a coupon",
+          "To compare printer prices",
+          "To track a shipment"
+        ],
+        "answer": "A",
+        "exp": "자신의 프린터가 지원되는지 모르겠다면 웹사이트에서 \"enter your printer's model number to find out\"하라고 했으므로 호환 여부 확인이 목적이다. 프린터 모델이 언급되지만 가격을 비교하는 것은 아니다.",
+        "ko": "청자들은 왜 웹사이트를 방문해야 하는가?"
+      },
+      {
+        "no": 88,
+        "q": "What will customers who sign up before the end of June receive?",
+        "options": [
+          "A free printer",
+          "A recycling bag",
+          "Two months of free service",
+          "Faster shipping"
+        ],
+        "answer": "C",
+        "exp": "\"will get their first two months free\"라고 했으므로 두 달 무료 이용이 정답이다. 선납 봉투는 모든 배송에 포함되는 것이지 6월 가입 혜택이 아니다.",
+        "ko": "6월 말 이전에 가입하는 고객은 무엇을 받게 되는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      89,
+      90,
+      91
+    ],
+    "talkType": "introduction",
+    "speakers": [
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "W1",
+        "t": "Good evening, and thank you all for coming to the Westbrook Architecture Society's annual dinner. It's my pleasure to introduce tonight's keynote speaker, Doctor Samuel Achebe. Many of you will know Doctor Achebe from his work on the Riverside Public Library, which won a national design award three years ago."
+      },
+      {
+        "s": "W1",
+        "t": "What you may not know is that before becoming an architect, he spent nearly ten years as a civil engineer, designing bridges and highways. He often says that experience taught him to think about how buildings are actually used, not just how they look."
+      },
+      {
+        "s": "W1",
+        "t": "Tonight, he'll be talking about his current project, a series of affordable apartment buildings made almost entirely from recycled materials. After his talk, we'll have a short question-and-answer session, so please write any questions you have on the cards at your tables."
+      },
+      {
+        "s": "W1",
+        "t": "Dessert will be served once the questions are finished. Now, please join me in giving a warm welcome to Doctor Achebe."
+      }
+    ],
+    "linesKo": [
+      "안녕하십니까. 웨스트브룩 건축 협회 연례 만찬에 와 주신 모든 분께 감사드립니다. 오늘 밤 기조연설자인 새뮤얼 아체베 박사님을 소개하게 되어 기쁩니다. 많은 분이 3년 전 국가 디자인상을 받은 리버사이드 공공 도서관 작업으로 아체베 박사님을 알고 계실 겁니다.",
+      "잘 모르실 수도 있는 사실은, 박사님이 건축가가 되기 전 거의 10년 동안 토목 기사로 일하며 다리와 고속도로를 설계했다는 점입니다. 박사님은 그 경험 덕분에 건물이 어떻게 보이는지뿐 아니라 실제로 어떻게 쓰이는지를 생각하게 되었다고 자주 말씀하십니다.",
+      "오늘 밤 박사님은 현재 진행 중인 프로젝트, 즉 거의 전부 재활용 자재로 짓는 저렴한 아파트 건물 시리즈에 대해 말씀하실 예정입니다. 강연이 끝나면 짧은 질의응답 시간이 있으니, 궁금한 점은 테이블 위 카드에 적어 주십시오.",
+      "디저트는 질의응답이 끝난 뒤 제공됩니다. 그럼 아체베 박사님을 따뜻한 박수로 맞아 주십시오."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 89,
+        "q": "Who most likely are the listeners?",
+        "options": [
+          "Construction workers",
+          "Members of a professional organization",
+          "Library employees",
+          "University students"
+        ],
+        "answer": "B",
+        "exp": "\"the Westbrook Architecture Society's annual dinner\"에 온 사람들이므로 전문가 협회 회원이다. 도서관은 연설자의 대표 작품으로 언급된 것이다.",
+        "ko": "청자들은 누구이겠는가?"
+      },
+      {
+        "no": 90,
+        "q": "What did the keynote speaker do before becoming an architect?",
+        "options": [
+          "He taught design courses.",
+          "He managed a library.",
+          "He worked for a housing agency.",
+          "He worked as an engineer."
+        ],
+        "answer": "D",
+        "exp": "\"he spent nearly ten years as a civil engineer\"라고 했다. 저렴한 주택은 현재 진행 중인 프로젝트일 뿐 이전 경력이 아니다.",
+        "ko": "기조연설자는 건축가가 되기 전에 무슨 일을 했는가?"
+      },
+      {
+        "no": 91,
+        "q": "What are listeners asked to do?",
+        "options": [
+          "Write questions on cards",
+          "Move to another room",
+          "Choose a dessert",
+          "Vote for an award winner"
+        ],
+        "answer": "A",
+        "exp": "\"please write any questions you have on the cards at your tables\"라고 요청했다. 디저트는 질의응답 후에 제공된다고 했을 뿐 고르라는 말은 없다.",
+        "ko": "청자들은 무엇을 하라고 요청받는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      92,
+      93,
+      94
+    ],
+    "talkType": "news report",
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "This is Kevin Lowe with your evening news update. Halbrook City officials announced today that the long-awaited renovation of Central Station will finally begin on March first. The project, which was originally planned for last year, was postponed after construction costs rose sharply."
+      },
+      {
+        "s": "M1",
+        "t": "According to Mayor Diane Coleman, the city was able to move forward after securing additional funding from the regional transportation authority. The renovation will include a larger waiting area, new ticket machines, and a covered bicycle parking area for commuters."
+      },
+      {
+        "s": "M1",
+        "t": "During construction, which is expected to last eighteen months, the station's north entrance will be closed. Travelers are advised to use the south entrance on Grant Street instead."
+      },
+      {
+        "s": "M1",
+        "t": "The city has also launched a Web page where residents can view the designs and submit comments through the end of February. Coming up next, Maria Ortiz with the weekend weather forecast."
+      }
+    ],
+    "linesKo": [
+      "저녁 뉴스 업데이트, 케빈 로입니다. 할브룩 시 당국은 오늘 오랫동안 기다려 온 중앙역 보수 공사가 마침내 3월 1일에 시작된다고 발표했습니다. 원래 작년에 예정되었던 이 사업은 공사비가 급격히 오르면서 연기되었습니다.",
+      "다이앤 콜먼 시장에 따르면 시는 지역 교통청으로부터 추가 자금을 확보한 뒤 사업을 추진할 수 있게 되었습니다. 보수 공사에는 대합실 확장, 새 승차권 발매기, 통근자를 위한 지붕 덮인 자전거 주차장 설치가 포함됩니다.",
+      "18개월간 이어질 것으로 예상되는 공사 기간에는 역 북쪽 출입구가 폐쇄됩니다. 이용객들은 대신 그랜트 스트리트에 있는 남쪽 출입구를 이용하시기 바랍니다.",
+      "시는 또한 주민들이 설계안을 보고 2월 말까지 의견을 제출할 수 있는 웹페이지를 개설했습니다. 이어서 마리아 오르티스가 주말 일기 예보를 전해 드리겠습니다."
+    ],
+    "graphic": null,
+    "questions": [
+      {
+        "no": 92,
+        "q": "Why was the renovation postponed?",
+        "options": [
+          "A design was rejected.",
+          "Residents opposed the plan.",
+          "Construction costs rose.",
+          "A contractor withdrew."
+        ],
+        "answer": "C",
+        "exp": "\"was postponed after construction costs rose sharply\"라고 했다. 주민들이 의견을 낼 수 있다는 말은 있지만 반대해서 연기된 것은 아니다.",
+        "ko": "보수 공사는 왜 연기되었는가?"
+      },
+      {
+        "no": 93,
+        "q": "What allowed the project to move forward?",
+        "options": [
+          "A private company invested in it.",
+          "Additional funding was secured.",
+          "Ticket prices were raised.",
+          "The design was simplified."
+        ],
+        "answer": "B",
+        "exp": "\"after securing additional funding from the regional transportation authority\"라고 했으므로 추가 자금 확보가 정답이다. 자금은 민간 기업이 아니라 지역 교통청에서 나왔다.",
+        "ko": "무엇 덕분에 사업을 추진할 수 있게 되었는가?"
+      },
+      {
+        "no": 94,
+        "q": "What are travelers advised to do during construction?",
+        "options": [
+          "Take a shuttle bus",
+          "Buy tickets online",
+          "Park in a different lot",
+          "Use another entrance"
+        ],
+        "answer": "D",
+        "exp": "북쪽 출입구가 폐쇄되므로 \"use the south entrance on Grant Street instead\"라고 권고했다. 자전거 주차장은 공사 후 생길 시설이지 공사 중 안내 사항이 아니다.",
+        "ko": "이용객들은 공사 기간에 무엇을 하라고 권고받는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      95,
+      96,
+      97
+    ],
+    "talkType": "announcement",
+    "speakers": [
+      {
+        "id": "W1",
+        "gender": "F",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "W1",
+        "t": "Hi, everyone. This is Olivia from Human Resources with a quick update about Thursday's training day. As a reminder, all employees are required to attend at least two sessions, and you'll need to register for them through the staff portal by noon on Wednesday."
+      },
+      {
+        "s": "W1",
+        "t": "Unfortunately, one of our outside trainers is no longer able to join us, so I'll be leading the session right after lunch myself. Don't worry, I've taught that one several times before."
+      },
+      {
+        "s": "W1",
+        "t": "Also, many of you have mentioned that the first session of the day is filling up quickly. Because of that, we've moved it to the main auditorium on the ground floor, which seats more than a hundred people."
+      },
+      {
+        "s": "W1",
+        "t": "Finally, lunch will be provided in the cafeteria. If you have any dietary restrictions, please send me an e-mail no later than Tuesday. See you all on Thursday."
+      }
+    ],
+    "linesKo": [
+      "안녕하세요, 여러분. 인사팀 올리비아입니다. 목요일 교육의 날에 관해 간단히 알려 드릴 것이 있습니다. 다시 말씀드리지만 모든 직원은 최소 두 개 세션에 참석해야 하며, 수요일 정오까지 직원 포털에서 신청하셔야 합니다.",
+      "안타깝게도 외부 강사 한 분이 오실 수 없게 되어 점심 직후 세션은 제가 직접 진행합니다. 걱정 마세요. 그 강의는 여러 번 해 본 적이 있습니다.",
+      "또 많은 분이 그날 첫 세션의 자리가 빠르게 차고 있다고 말씀해 주셨습니다. 그래서 그 세션을 100명 이상 앉을 수 있는 1층 대강당으로 옮겼습니다.",
+      "마지막으로 점심은 구내식당에서 제공됩니다. 식단 제한이 있으신 분은 늦어도 화요일까지 제게 이메일을 보내 주세요. 목요일에 뵙겠습니다."
+    ],
+    "graphic": {
+      "title": "Staff Training Day - Thursday",
+      "columns": [
+        "Time",
+        "Session",
+        "Location"
+      ],
+      "rows": [
+        [
+          "9:00 A.M.",
+          "Data Security Basics",
+          "Room 101"
+        ],
+        [
+          "10:30 A.M.",
+          "Project Management Tools",
+          "Room 204"
+        ],
+        [
+          "12:00 P.M.",
+          "Lunch",
+          "Cafeteria"
+        ],
+        [
+          "1:00 P.M.",
+          "Effective Client Presentations",
+          "Room 310"
+        ],
+        [
+          "3:00 P.M.",
+          "Budget Planning",
+          "Room 105"
+        ]
+      ],
+      "kind": "schedule"
+    },
+    "questions": [
+      {
+        "no": 95,
+        "q": "What must listeners do by Wednesday?",
+        "options": [
+          "Register for sessions",
+          "Report dietary needs",
+          "Complete a survey",
+          "Reserve a meeting room"
+        ],
+        "answer": "A",
+        "exp": "\"you'll need to register for them through the staff portal by noon on Wednesday\"라고 했다. 식단 제한은 화요일까지 알려야 하므로 수요일 마감과 다르다.",
+        "ko": "청자들은 수요일까지 무엇을 해야 하는가?"
+      },
+      {
+        "no": 96,
+        "q": "Look at the graphic. Which session will the speaker lead?",
+        "options": [
+          "Data Security Basics",
+          "Project Management Tools",
+          "Effective Client Presentations",
+          "Budget Planning"
+        ],
+        "answer": "C",
+        "exp": "화자는 \"the session right after lunch\"를 직접 진행한다고 했고, 일정표에서 12시 점심 바로 다음인 1시 세션은 Effective Client Presentations다. 장소가 바뀐 것은 첫 세션(Data Security Basics)이다.",
+        "ko": "시각 자료를 보시오. 화자는 어느 세션을 진행할 것인가?"
+      },
+      {
+        "no": 97,
+        "q": "Why has a session been moved to a different location?",
+        "options": [
+          "Its room is being repaired.",
+          "The trainer requested a larger space.",
+          "Equipment was not available.",
+          "Many employees want to attend."
+        ],
+        "answer": "D",
+        "exp": "첫 세션이 \"filling up quickly\"하여 100명 이상 수용 가능한 대강당으로 옮겼으므로 참석 희망자가 많기 때문이다. 넓은 공간으로 옮긴 것은 맞지만 강사가 요청한 것은 아니다.",
+        "ko": "한 세션은 왜 다른 장소로 옮겨졌는가?"
+      }
+    ]
+  },
+  {
+    "nos": [
+      98,
+      99,
+      100
+    ],
+    "talkType": "telephone message",
+    "speakers": [
+      {
+        "id": "M1",
+        "gender": "M",
+        "accent": "US"
+      }
+    ],
+    "lines": [
+      {
+        "s": "M1",
+        "t": "Hello, this is Marcus from Greenleaf Catering, returning your call about the lunch for your company's sales conference on the eighteenth. You mentioned that you'd like to keep the cost under twenty dollars per person and that several of your guests are vegetarian."
+      },
+      {
+        "s": "M1",
+        "t": "Based on that, I'd recommend the most expensive package that still fits within your budget. It includes our grilled vegetable platter, which is always popular, and it comes with dessert and coffee as well."
+      },
+      {
+        "s": "M1",
+        "t": "One thing I should mention is that for groups of more than fifty people, we require a thirty percent deposit when the order is confirmed. Since you said about sixty people will be attending, that would apply to your event."
+      },
+      {
+        "s": "M1",
+        "t": "Also, our delivery van is booked until late that morning, so the food would arrive at around eleven forty-five. If that's too late, let me know and I'll see what I can arrange. You can reach me at five five five, eight one three, two six six zero."
+      }
+    ],
+    "linesKo": [
+      "안녕하세요, 그린리프 케이터링의 마커스입니다. 18일에 있을 귀사 영업 회의 점심 건으로 회신 전화 드립니다. 1인당 20달러 미만으로 비용을 맞추고 싶으시고, 손님 중 몇 분이 채식주의자라고 하셨죠.",
+      "그렇다면 예산 안에서 가장 비싼 패키지를 추천해 드립니다. 늘 인기가 많은 구운 채소 모둠이 포함되어 있고, 디저트와 커피도 함께 나갑니다.",
+      "한 가지 말씀드릴 점은 50명이 넘는 단체의 경우 주문 확정 시 30퍼센트의 보증금을 받는다는 것입니다. 약 60명이 참석한다고 하셨으니 이번 행사에 해당됩니다.",
+      "또 그날 오전 늦게까지 배송 차량 예약이 잡혀 있어서 음식은 11시 45분쯤 도착할 예정입니다. 너무 늦다면 알려 주세요. 다른 방법을 마련해 보겠습니다. 제 번호는 555-813-2660입니다."
+    ],
+    "graphic": {
+      "title": "Greenleaf Catering - Lunch Packages",
+      "columns": [
+        "Package",
+        "Price per Person"
+      ],
+      "rows": [
+        [
+          "Basic",
+          "$12"
+        ],
+        [
+          "Standard",
+          "$16"
+        ],
+        [
+          "Deluxe",
+          "$21"
+        ],
+        [
+          "Premium",
+          "$27"
+        ]
+      ],
+      "kind": "list"
+    },
+    "questions": [
+      {
+        "no": 98,
+        "q": "What event is the speaker calling about?",
+        "options": [
+          "A product launch",
+          "A sales conference",
+          "A retirement party",
+          "A training workshop"
+        ],
+        "answer": "B",
+        "exp": "\"the lunch for your company's sales conference on the eighteenth\"라고 했으므로 영업 회의다. 점심 행사 자체가 아니라 회의에 제공할 점심을 논의하고 있다.",
+        "ko": "화자는 어떤 행사에 관해 전화하고 있는가?"
+      },
+      {
+        "no": 99,
+        "q": "Look at the graphic. Which package does the speaker recommend?",
+        "options": [
+          "Basic",
+          "Standard",
+          "Deluxe",
+          "Premium"
+        ],
+        "answer": "B",
+        "exp": "예산이 1인당 20달러 미만이고 그 안에서 \"the most expensive package\"를 추천했으므로 16달러인 Standard다. Deluxe는 21달러로 예산을 넘는다.",
+        "ko": "시각 자료를 보시오. 화자는 어느 패키지를 추천하는가?"
+      },
+      {
+        "no": 100,
+        "q": "What does the speaker say is required for large groups?",
+        "options": [
+          "A signed contract",
+          "A final guest list",
+          "An advance payment",
+          "An early menu selection"
+        ],
+        "answer": "C",
+        "exp": "50명이 넘는 단체는 \"we require a thirty percent deposit\"라고 했으므로 선금이 정답이다. deposit이 advance payment로 바뀌어 표현되었다. 참석 인원이 언급되지만 최종 명단을 요구하지는 않았다.",
+        "ko": "화자는 대규모 단체에 무엇이 필요하다고 말하는가?"
+      }
+    ]
+  }
+]
